@@ -1,0 +1,15 @@
+{
+  "normalization": true,
+  "binary_metric_test": {
+    "Accuracy": 0.5,
+    "Precision": 0.5,
+    "Recall": 0.5,
+    "F1": 0.5,
+    "yes_rate": 0.5,
+    "invalid_rate": 0.0,
+    "false_positive_rate": 0.5,
+    "n": 4
+  },
+  "invalid_penalized": true,
+  "passed": true
+}

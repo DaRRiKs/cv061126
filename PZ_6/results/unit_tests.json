@@ -1,0 +1,20 @@
+{
+  "IoU_identical": 1.0,
+  "IoU_disjoint": 0.0,
+  "IoU_overlap": 0.14285714285714285,
+  "coordinate_result": [
+    20.0,
+    40.0,
+    200.0,
+    400.0
+  ],
+  "anisotropic_result": [
+    20.0,
+    48.0,
+    200.0,
+    480.0
+  ],
+  "random_symmetry_cases": 100,
+  "parser": true,
+  "passed": true
+}

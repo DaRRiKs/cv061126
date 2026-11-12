@@ -1,0 +1,8 @@
+{
+  "causal_loss": 4.163172245025635,
+  "manual_loss": 4.163172245025635,
+  "visual_gradient_norm": 0.0046247439458966255,
+  "mask_and_shift": true,
+  "pooling": true,
+  "passed": true
+}

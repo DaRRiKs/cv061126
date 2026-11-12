@@ -1,0 +1,1437 @@
+[
+  {
+    "question_id": "17488",
+    "image_id": 511642,
+    "width": 640,
+    "height": 426,
+    "rgb_sha256": "44b026cf307e481f23d7c1c4f8366f2573c846c44c9bece29b3c8d6c88923097"
+  },
+  {
+    "question_id": "19555",
+    "image_id": 503227,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "0466259f65a11b790e3a5e06f06bee880da193d34bec3d23c56e8f5869867a9b"
+  },
+  {
+    "question_id": "102346",
+    "image_id": 163828,
+    "width": 640,
+    "height": 512,
+    "rgb_sha256": "429d283e2f1608455a8be0f4bb0c1c07ec7cca56f9f359e5a1d0d0efa5c243da"
+  },
+  {
+    "question_id": "136797",
+    "image_id": 22575,
+    "width": 500,
+    "height": 375,
+    "rgb_sha256": "c6aa7451f405880a89f27905d6fd6a6d3e6f0dbe506a1f47af71472a9dcc5d2d"
+  },
+  {
+    "question_id": "71654",
+    "image_id": 292498,
+    "width": 640,
+    "height": 361,
+    "rgb_sha256": "59c6b5da60f090a8068f82974369d328ae965732d188cdc91b396523eb06e2aa"
+  },
+  {
+    "question_id": "60066",
+    "image_id": 336185,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "17d5cbe3d389821bafd32e0205948eb663afb6329988bf332a09ad555a4142d7"
+  },
+  {
+    "question_id": "48034",
+    "image_id": 387513,
+    "width": 640,
+    "height": 428,
+    "rgb_sha256": "da7df8b97b50a2099d9219797b1dad57c9ab54043f67919682050f51a2102611"
+  },
+  {
+    "question_id": "14678",
+    "image_id": 522365,
+    "width": 500,
+    "height": 375,
+    "rgb_sha256": "446c83e8aa3d5c55da7fc39d43f484fa5fd273b34c8de7a83e74d897404f140f"
+  },
+  {
+    "question_id": "36381",
+    "image_id": 435076,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "cf50a7b70b1dad9202d0e240f48778c00ced76d58f36dfd7dc3fedda1de9f318"
+  },
+  {
+    "question_id": "104602",
+    "image_id": 153711,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "75808011a18d1267393df33781772852399ab0bc043622996b0b54b645703b62"
+  },
+  {
+    "question_id": "80217",
+    "image_id": 256546,
+    "width": 640,
+    "height": 640,
+    "rgb_sha256": "793b60a05b97ae4fdf43029f231497511d7b12965ad78d22e24091d7385adb9e"
+  },
+  {
+    "question_id": "128642",
+    "image_id": 55237,
+    "width": 640,
+    "height": 506,
+    "rgb_sha256": "d631020bec626b7f1a6ab917349cf57e9237feb2ebd2381ad593b52d032d2436"
+  },
+  {
+    "question_id": "16792",
+    "image_id": 514622,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "58475a973f759632ed9c1b44ac4a9769fdbc1db85775b636932c36feeb8d24c8"
+  },
+  {
+    "question_id": "64727",
+    "image_id": 320059,
+    "width": 478,
+    "height": 640,
+    "rgb_sha256": "19fded98bc48f49e684a5f5f2b705d451f2f38cf029c62ad2a2a9a418569165e"
+  },
+  {
+    "question_id": "49449",
+    "image_id": 381889,
+    "width": 480,
+    "height": 640,
+    "rgb_sha256": "c64e33cdc55414d7146ecb3badb0c7f510e7e9c6534c80c62f435908242a37bf"
+  },
+  {
+    "question_id": "47151",
+    "image_id": 391229,
+    "width": 640,
+    "height": 320,
+    "rgb_sha256": "abe6252538c05724fabe72a7582b2ecfaa2816fd58d84318558805ae666920aa"
+  },
+  {
+    "question_id": "120615",
+    "image_id": 87248,
+    "width": 640,
+    "height": 388,
+    "rgb_sha256": "46ce2d78a0be1db7d8347835c7b8386ba09d624e6e0b5f9e71246f3f25419719"
+  },
+  {
+    "question_id": "37180",
+    "image_id": 431400,
+    "width": 640,
+    "height": 424,
+    "rgb_sha256": "a330461e18db927ef4962c7dbdf42efc61c0ec39fb2d5cab00ae68ff146b261e"
+  },
+  {
+    "question_id": "78601",
+    "image_id": 263039,
+    "width": 375,
+    "height": 500,
+    "rgb_sha256": "d98dc1d146966e90b4190cea8630f6da425461f6a8ba3a79831350720e2c320b"
+  },
+  {
+    "question_id": "122792",
+    "image_id": 78322,
+    "width": 640,
+    "height": 456,
+    "rgb_sha256": "30c4bd756a03bd6862235f24218d7c2c9d5a87012562e04c233ea35a186306a7"
+  },
+  {
+    "question_id": "38184",
+    "image_id": 427461,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "e8918330a658de1d3212c56cc726b89a2130586137952a8a10e5540dbdce8372"
+  },
+  {
+    "question_id": "64871",
+    "image_id": 319644,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "21316b588eb8762a2b250abeda65aef28f0182d442942c30a130675264285e3f"
+  },
+  {
+    "question_id": "114608",
+    "image_id": 112040,
+    "width": 612,
+    "height": 612,
+    "rgb_sha256": "fa316c5b6742e8bae581936116418de07fdaccc74bc1a06ddc8e186c87c9cbc4"
+  },
+  {
+    "question_id": "57896",
+    "image_id": 345019,
+    "width": 640,
+    "height": 368,
+    "rgb_sha256": "75b40bfce41824654f1587b7bfcc0ea72efde722614ed6d27ebce8f27c4226e6"
+  },
+  {
+    "question_id": "70693",
+    "image_id": 296894,
+    "width": 480,
+    "height": 640,
+    "rgb_sha256": "4bb41425523d46deeef3877e1ef07da98b039053caa26d7d848801d9849d82ac"
+  },
+  {
+    "question_id": "60225",
+    "image_id": 335697,
+    "width": 640,
+    "height": 423,
+    "rgb_sha256": "7f5afc3c0628a76d9bad731240a2a6aa1a054659c9f44fe955332782142b6161"
+  },
+  {
+    "question_id": "2999",
+    "image_id": 570178,
+    "width": 640,
+    "height": 594,
+    "rgb_sha256": "cb17819193abbf09426fc8d11667ab4a20a7366758ddd46058e429ef8bd7abdb"
+  },
+  {
+    "question_id": "124027",
+    "image_id": 73387,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "d0ff74eac0231ab5fd113d2b2de24ac3c7517961a4823adc8b8d659210b5cd4a"
+  },
+  {
+    "question_id": "112054",
+    "image_id": 122916,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "1436df932b0c67faffd996b416cf14458338c1bc1e4441c56f1d7974d3812d90"
+  },
+  {
+    "question_id": "38840",
+    "image_id": 425063,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "facab05730ba8b4e09cd4506db4d534681935650a3c85d93966546b2a648273f"
+  },
+  {
+    "question_id": "83708",
+    "image_id": 242506,
+    "width": 640,
+    "height": 360,
+    "rgb_sha256": "70dba44c42bf6e602b6c1af388353181e22838eb8ed620637b8d9bb786fc837b"
+  },
+  {
+    "question_id": "107603",
+    "image_id": 140733,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "da01aa6dafc5430da19d81f501a0913f51879c809d6f1cefa71547c231961add"
+  },
+  {
+    "question_id": "120240",
+    "image_id": 88868,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "9869649528db5bbbcda0ffcf5997397db569af292b71ef7118675cb0c22356fe"
+  },
+  {
+    "question_id": "26735",
+    "image_id": 474123,
+    "width": 427,
+    "height": 640,
+    "rgb_sha256": "b1c9a43aab560c86d8761b839fd7aeaa193b587b5a236ddb30979403f2dbe619"
+  },
+  {
+    "question_id": "69266",
+    "image_id": 302397,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "c173a65aee3eba831ab77e02fe2f49a324b0c6a8b183d8020b33f0ecb8970559"
+  },
+  {
+    "question_id": "116351",
+    "image_id": 104304,
+    "width": 480,
+    "height": 640,
+    "rgb_sha256": "3ca7019bdf4d82ebae6c61880d33d42ecd251b90d9658fa62b0f468f6cc6b26f"
+  },
+  {
+    "question_id": "16618",
+    "image_id": 515181,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "c5a55f0438c8b1a13d5c11b27fb77e77897f51cea117ed1a50615eb171f354c8"
+  },
+  {
+    "question_id": "76221",
+    "image_id": 273197,
+    "width": 623,
+    "height": 640,
+    "rgb_sha256": "3b672bfcfd3065dad806ac19ffce6cc6f4cf7c7ad6e7192c5921741bcc2b4bb4"
+  },
+  {
+    "question_id": "48756",
+    "image_id": 384836,
+    "width": 500,
+    "height": 375,
+    "rgb_sha256": "46944f7c226fc30c5522feb0e5ddfe9974bf7d067d3ed2c0fbcdae2d97c8ab64"
+  },
+  {
+    "question_id": "50604",
+    "image_id": 377174,
+    "width": 612,
+    "height": 612,
+    "rgb_sha256": "a88fa1b76a36e158a5df0be0cd5549fc099fba28113091b8ff2f8a1c2cd14a24"
+  },
+  {
+    "question_id": "10897",
+    "image_id": 538263,
+    "width": 428,
+    "height": 640,
+    "rgb_sha256": "df9a54120480ed8611aa2f733ff196c1696a76cb3f8e43aa343a7d6b57db2c54"
+  },
+  {
+    "question_id": "100780",
+    "image_id": 170683,
+    "width": 640,
+    "height": 567,
+    "rgb_sha256": "d815375af4541328b73a2212e755b304cba8327e00f93c7631a8ee2ff6e17cf1"
+  },
+  {
+    "question_id": "53254",
+    "image_id": 364683,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "c0b7e7d1e074245d0c65eecbc3d2381578f0cafb16a6408e7635497fd396df94"
+  },
+  {
+    "question_id": "35696",
+    "image_id": 438045,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "633f4c3d5454c7ae4bd20c6b04f331f0fdb241c30fd67962ce5f95426df6c745"
+  },
+  {
+    "question_id": "41547",
+    "image_id": 414032,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "243e98a109f32601eb86920600ee05b1a7639ad11521c8ca147d6f09aa8c9d36"
+  },
+  {
+    "question_id": "74564",
+    "image_id": 280018,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "ece242bb7074b50e61229c0a7a905dba63cfed310118dd8e631835a9a4cd42df"
+  },
+  {
+    "question_id": "94558",
+    "image_id": 197289,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "a6760f616359460bda5e32dc0463426770bf4a1589048204dea8fe6da9e553de"
+  },
+  {
+    "question_id": "65391",
+    "image_id": 317659,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "3824c4b6522a7dff8c0bbdd324e5a71c505746b6bc2fe709735f38f1890deea6"
+  },
+  {
+    "question_id": "69313",
+    "image_id": 302103,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "d50466138ebab017501f234dd90afc823572ead2ac1f64456d074f85fa1ee532"
+  },
+  {
+    "question_id": "136413",
+    "image_id": 24026,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "0b2acac0f53f51482d820869e8cb7066308372d1db179ff3cca84fad035ede8b"
+  },
+  {
+    "question_id": "89638",
+    "image_id": 217799,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "da0fa5772da4819b63d6b75ffabb1595c6ae7ab02d00d16f859367b2f259df3f"
+  },
+  {
+    "question_id": "78001",
+    "image_id": 265329,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "bebca2b99d030c7a08c54306fa69d7b4fcf52de2e2f99ebebcf6ebd933889ee7"
+  },
+  {
+    "question_id": "91381",
+    "image_id": 210252,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "d471aaa1f5d361f8b913866df0f53c837a6248ef61b6674fc412d2f1e1eefd9c"
+  },
+  {
+    "question_id": "48608",
+    "image_id": 385505,
+    "width": 640,
+    "height": 454,
+    "rgb_sha256": "86d177242e0ef0375b84fc5801b5e2e9b491507fe2387b02108ffde78a3c6a69"
+  },
+  {
+    "question_id": "129061",
+    "image_id": 53643,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "5d508e8cd4fd299d2a003d889001aea25baa4fe7bb833ab0b28058b89895348c"
+  },
+  {
+    "question_id": "85312",
+    "image_id": 235802,
+    "width": 640,
+    "height": 488,
+    "rgb_sha256": "f3932c319c8709f248241d6af5cb4f2ec216112d3926bec165ba62c6350d15fc"
+  },
+  {
+    "question_id": "75752",
+    "image_id": 275707,
+    "width": 640,
+    "height": 402,
+    "rgb_sha256": "99cc8fc07694461503913929d6afe91a30f3e3dde866b07b929b2dbfaa95af03"
+  },
+  {
+    "question_id": "122141",
+    "image_id": 80590,
+    "width": 500,
+    "height": 375,
+    "rgb_sha256": "328f89dba8d5f5b3c6209fc05352c30dde1924db05e07cf7a04904bc907d2b66"
+  },
+  {
+    "question_id": "117339",
+    "image_id": 100034,
+    "width": 640,
+    "height": 628,
+    "rgb_sha256": "98eeb621c9a512c1f769a10e22d0e3393244ce1dfb6e8fa1a0cbef6c54f1aff8"
+  },
+  {
+    "question_id": "7894",
+    "image_id": 550760,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "3a7a773fd6fe68baaf83bc8f3a22f463e0e775fc54c089e743a9de822810cae2"
+  },
+  {
+    "question_id": "53573",
+    "image_id": 363363,
+    "width": 480,
+    "height": 360,
+    "rgb_sha256": "6249ca66b64cb505f8d25fc6a0c3d314379ead7276f01228e9fdd74c36dfdeb4"
+  },
+  {
+    "question_id": "85460",
+    "image_id": 235316,
+    "width": 640,
+    "height": 448,
+    "rgb_sha256": "135c64ba3102ee6a3283f8a248409405a97ca4e2440e8549fc12bc8f4c38fc39"
+  },
+  {
+    "question_id": "72278",
+    "image_id": 289282,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "dcb3bdaa5ff22e6e182027377c317226e33a6e963734067819e39e32d67ee885"
+  },
+  {
+    "question_id": "46204",
+    "image_id": 394992,
+    "width": 640,
+    "height": 590,
+    "rgb_sha256": "69529b9ec487dffbab6352115ebd06099fbb747c818df788667fdda7694316f4"
+  },
+  {
+    "question_id": "34081",
+    "image_id": 444651,
+    "width": 640,
+    "height": 448,
+    "rgb_sha256": "0a2c41221c6a2acf04005359a4e966ef90d6b7ef2998aebabec568f273b31116"
+  },
+  {
+    "question_id": "81089",
+    "image_id": 253049,
+    "width": 612,
+    "height": 612,
+    "rgb_sha256": "66a68e89bf2d7afb1e699b857e4b09994f0f18c25118fc2990ef5e1117012729"
+  },
+  {
+    "question_id": "35069",
+    "image_id": 440820,
+    "width": 417,
+    "height": 640,
+    "rgb_sha256": "f3ad8adfff14e8687ec2fc4b57de743c03731befc07f7225e0399a6f52ed0889"
+  },
+  {
+    "question_id": "71865",
+    "image_id": 291493,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "994eb62e46d33a39548576ce39fd75ec92fecd291c585e0d400b86aa20df249d"
+  },
+  {
+    "question_id": "23836",
+    "image_id": 485800,
+    "width": 326,
+    "height": 500,
+    "rgb_sha256": "605db66205d8bcfcb7e714b82aaf696c88c3563509df0d21966aa48b38379543"
+  },
+  {
+    "question_id": "111839",
+    "image_id": 123892,
+    "width": 640,
+    "height": 475,
+    "rgb_sha256": "18815809d8b8fabae275e8d8ba41039f70bacebce67dafb2e1bde396a96d18e0"
+  },
+  {
+    "question_id": "89573",
+    "image_id": 217959,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "9dce5e6b7401abfe5e7f98529f11e517a3b23b8fa8c9605067e01b8f661f6036"
+  },
+  {
+    "question_id": "82287",
+    "image_id": 248052,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "c5eefc39d8aa83720ed99b6526256bfe746ae134438ea4f4260d63af18b7fde4"
+  },
+  {
+    "question_id": "123037",
+    "image_id": 77174,
+    "width": 427,
+    "height": 640,
+    "rgb_sha256": "2e74000583ad1ed6978fae32fa8c372287de415dd391b843f772b7e583d7766d"
+  },
+  {
+    "question_id": "59712",
+    "image_id": 337452,
+    "width": 500,
+    "height": 368,
+    "rgb_sha256": "fd20fee41e8e108a3d85d5dfd4071e2a4ef9faaf1a384a59a75f6d6d5aa36b1b"
+  },
+  {
+    "question_id": "84031",
+    "image_id": 241208,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "5ce1cf074270a069132fb18a6ccbd3a1aed15f654e2e6d8aa073fcdc9d46848a"
+  },
+  {
+    "question_id": "120273",
+    "image_id": 88663,
+    "width": 640,
+    "height": 466,
+    "rgb_sha256": "05e24241ae6b5c1cd919178b60c574a7133141c79905bae3f126511b3e9c4d27"
+  },
+  {
+    "question_id": "44935",
+    "image_id": 399880,
+    "width": 640,
+    "height": 516,
+    "rgb_sha256": "97e4c3bd533d531fbe6aaf8fb824ab1614effb77bd345f7678c33f4c60e933ed"
+  },
+  {
+    "question_id": "37473",
+    "image_id": 430244,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "134530cf03d58e0746f8b9824a1908c71a5b3bb51f0d76a473905fd61f0292d5"
+  },
+  {
+    "question_id": "122926",
+    "image_id": 77650,
+    "width": 640,
+    "height": 464,
+    "rgb_sha256": "7f44a5ee3a69ad39d87ccc79eb326a2b59294b9de2c563e9f87a304840a659c8"
+  },
+  {
+    "question_id": "37019",
+    "image_id": 432170,
+    "width": 444,
+    "height": 640,
+    "rgb_sha256": "0d843f0fe1dc08b987ca48c34560897f391565d0eceadab9608166f5d789c6f5"
+  },
+  {
+    "question_id": "88008",
+    "image_id": 224056,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "76bbf801ce53b81e70b2d3d40494f18bd70c5a679917894b73ff523981c7f280"
+  },
+  {
+    "question_id": "19891",
+    "image_id": 501842,
+    "width": 640,
+    "height": 384,
+    "rgb_sha256": "f8278c078cf38282eb0daf40a9d7983244128d1edec6e8b6573acedf6615f7c5"
+  },
+  {
+    "question_id": "31932",
+    "image_id": 453311,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "fa0597ceac7cafc5225021f69825ad0e2513cb06c52e6b1b42ccb3124b6a8211"
+  },
+  {
+    "question_id": "107591",
+    "image_id": 140738,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "2c53a9c769c0d280906acff935b8c3aaeb3ace5888a2962a179310dba9f8bac2"
+  },
+  {
+    "question_id": "104474",
+    "image_id": 154212,
+    "width": 480,
+    "height": 640,
+    "rgb_sha256": "fb041c253d9822585b9f64a2741eccfa8a3e44691db6406376bd7fad14d294e4"
+  },
+  {
+    "question_id": "19106",
+    "image_id": 504878,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "89e3d26bfc2cd07f14215f68688dbf1f5e745de071319411492083cb406d878f"
+  },
+  {
+    "question_id": "89356",
+    "image_id": 218984,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "32ff09efcdcd9abc35face88d4688e53018b4402e4149f31245c43ed50855e3a"
+  },
+  {
+    "question_id": "83098",
+    "image_id": 244983,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "b5680e0f0a4166ab7eac13ba4ce7ec2667b205cf50b8e44d962b5e3401f60f83"
+  },
+  {
+    "question_id": "47191",
+    "image_id": 391088,
+    "width": 640,
+    "height": 640,
+    "rgb_sha256": "bd2f09e724d4e1b116bd6346eb8505a83aa820d0c0c1cb3e8ca702f1a6238723"
+  },
+  {
+    "question_id": "75308",
+    "image_id": 277491,
+    "width": 640,
+    "height": 558,
+    "rgb_sha256": "6b8305fde97df5bf9755ffc5613482123f86346f9a514643cf591e942c335122"
+  },
+  {
+    "question_id": "129460",
+    "image_id": 52086,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "24b44521862682a4e0622b2002258689abf4a3768e19e7b40e2de86c7e256043"
+  },
+  {
+    "question_id": "15339",
+    "image_id": 519626,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "00566a2ec3ddb6712d0bd40b79bc1bdf67290f6a6b7eb773e02b1c957dac5163"
+  },
+  {
+    "question_id": "107572",
+    "image_id": 140850,
+    "width": 334,
+    "height": 500,
+    "rgb_sha256": "b42fd668400025d5c8be3d0db9d31ccbb33aa1248ecf3d93cbc582fd964974b7"
+  },
+  {
+    "question_id": "32546",
+    "image_id": 450735,
+    "width": 640,
+    "height": 476,
+    "rgb_sha256": "56b6844ef69ba05f6e5f142a4b1d20f1c0f60c54061399417d829ab13ae87502"
+  },
+  {
+    "question_id": "115755",
+    "image_id": 106652,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "95dde99e54f71869b0de7e0ce8aeccba84199e4884f9e0846b78348061331042"
+  },
+  {
+    "question_id": "69438",
+    "image_id": 301373,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "ae1c4e30af44cdb26d84cf9962b8aebc2a6402a99269c7dce09ca4b293ea747b"
+  },
+  {
+    "question_id": "26035",
+    "image_id": 477392,
+    "width": 640,
+    "height": 424,
+    "rgb_sha256": "527725afbbed1df6b01afc0b76d09cacf6f81fabcb3712e6dda3bb90dc41ef28"
+  },
+  {
+    "question_id": "137987",
+    "image_id": 17451,
+    "width": 640,
+    "height": 594,
+    "rgb_sha256": "dd62a0338b44ea19ca30c5fa07fb2cf0e1b70c8f4b638873cf93db5682c98c36"
+  },
+  {
+    "question_id": "100454",
+    "image_id": 171736,
+    "width": 500,
+    "height": 333,
+    "rgb_sha256": "63a7c40bdc882f3584df41f302237d899643193366ff04b980a31f7a69e46b6f"
+  },
+  {
+    "question_id": "100555",
+    "image_id": 171262,
+    "width": 640,
+    "height": 469,
+    "rgb_sha256": "5e0a0cfd326469af0fde0c126b51e9c54020cc22bd1381c596e52daa78d0ff53"
+  },
+  {
+    "question_id": "93988",
+    "image_id": 199841,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "b9c0f45a8ea1c97c237e9d989806234989d68a5efb07fe7d179e58a9678efa8d"
+  },
+  {
+    "question_id": "50983",
+    "image_id": 375133,
+    "width": 500,
+    "height": 333,
+    "rgb_sha256": "59e30fca7911e930cd0a3b51c2775bc5e93d259be509e77c475ae70a374279f7"
+  },
+  {
+    "question_id": "121882",
+    "image_id": 81401,
+    "width": 640,
+    "height": 482,
+    "rgb_sha256": "6c2a0fcf8a7c01fd3ce4165564c2a6cd10885cc4b9d3858c431ae2270b1b99c7"
+  },
+  {
+    "question_id": "128845",
+    "image_id": 54318,
+    "width": 640,
+    "height": 429,
+    "rgb_sha256": "b00a73bc615308ce1a4a0b22f33e4dc4a79ace2faa6be7e736e6daac844c0252"
+  },
+  {
+    "question_id": "81964",
+    "image_id": 249429,
+    "width": 428,
+    "height": 640,
+    "rgb_sha256": "1d9fec9adc41334f97b32e3f7243c6dde9ae55cced495f1ffbf410339bd340da"
+  },
+  {
+    "question_id": "31995",
+    "image_id": 453002,
+    "width": 640,
+    "height": 442,
+    "rgb_sha256": "47dd4f5f75b51afd7e025df9dec36d1e4944f849955b47bd5084048c141943fb"
+  },
+  {
+    "question_id": "37002",
+    "image_id": 432372,
+    "width": 640,
+    "height": 426,
+    "rgb_sha256": "18b13967980562cc31d30cd54300c1748c2a8cb978cf2ada42f4b6e336aedbc7"
+  },
+  {
+    "question_id": "94035",
+    "image_id": 199640,
+    "width": 640,
+    "height": 331,
+    "rgb_sha256": "582ed8690bf896ec6321ad67f25788e435b3a65a7bba9c7ec6e15c880e4bd070"
+  },
+  {
+    "question_id": "51628",
+    "image_id": 372588,
+    "width": 640,
+    "height": 478,
+    "rgb_sha256": "cf5ef669ad27cdf90e138fe287a3cf67cd0ac84078ace31fb7170ab0a9f0db43"
+  },
+  {
+    "question_id": "2182",
+    "image_id": 573125,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "469818e1e3475c03b59f8359fe1d6966d913e85cdb477b0365b474ded2268c54"
+  },
+  {
+    "question_id": "128648",
+    "image_id": 55232,
+    "width": 640,
+    "height": 432,
+    "rgb_sha256": "528eb538fd171e6ad89a1b8726cd63430f8f86aba5fe6c9e941b30486918a18c"
+  },
+  {
+    "question_id": "74823",
+    "image_id": 279169,
+    "width": 640,
+    "height": 526,
+    "rgb_sha256": "03e52823ac2fc623ee8ee900100cfcbd70392572549ffb3e818efbecad79480d"
+  },
+  {
+    "question_id": "104819",
+    "image_id": 152556,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "9df7a10617d9b4f0c292acb20916f130b66fc90c089887fb32db4fe92ad19f18"
+  },
+  {
+    "question_id": "137293",
+    "image_id": 20513,
+    "width": 480,
+    "height": 640,
+    "rgb_sha256": "5f04dfdcc18ea2874529781eed80ec702142173b0e35c02d909454770f584861"
+  },
+  {
+    "question_id": "22463",
+    "image_id": 491739,
+    "width": 640,
+    "height": 428,
+    "rgb_sha256": "d0cac2b814cdcd62b713b7f6b590e45c120ed2952d40aef18ad29cc5c83f1c51"
+  },
+  {
+    "question_id": "32855",
+    "image_id": 449469,
+    "width": 640,
+    "height": 425,
+    "rgb_sha256": "20673e2b023a2c7e5d34d411370170e2a041b7aa4c0dda99fb3dd999ecb16259"
+  },
+  {
+    "question_id": "82169",
+    "image_id": 248579,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "90248f52a6dce8492541d8e61c1be689b4affea13b570a722f8f6aae7c5b9cb7"
+  },
+  {
+    "question_id": "5164",
+    "image_id": 562014,
+    "width": 499,
+    "height": 640,
+    "rgb_sha256": "f2eca96df13c2cb8efcdcd7d37bf1b38522b420e00ff05d76ce8335c6f5413ea"
+  },
+  {
+    "question_id": "135991",
+    "image_id": 25628,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "5dd2fb7df5615a437087e96273f13b5bd698d789d09cab5cd348a2f4df9817f1"
+  },
+  {
+    "question_id": "23825",
+    "image_id": 485868,
+    "width": 640,
+    "height": 425,
+    "rgb_sha256": "cfb7bb3c6cf8dd9ba4b39fb132620f9513c3d9e45822d63ce68478a8c340d3b3"
+  },
+  {
+    "question_id": "102799",
+    "image_id": 161719,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "9dee52776239facb1a201b730fc0b8fece5b7cd78245bf481f6950e8cbfc8b66"
+  },
+  {
+    "question_id": "36906",
+    "image_id": 432683,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "7a208af8a17c778eab2f8e5a24ac080d5a96d696a959678637c2e8ba8c3eb349"
+  },
+  {
+    "question_id": "74616",
+    "image_id": 279882,
+    "width": 640,
+    "height": 484,
+    "rgb_sha256": "d5f396c1d52f7e4792985367c0643c98ee8c68cf992812164ced214b878fa587"
+  },
+  {
+    "question_id": "3520",
+    "image_id": 568272,
+    "width": 640,
+    "height": 506,
+    "rgb_sha256": "f297a898244cba6851e815187c5bae5c0c98b1f32bddebf675c8a885b7c94e83"
+  },
+  {
+    "question_id": "67208",
+    "image_id": 310897,
+    "width": 500,
+    "height": 366,
+    "rgb_sha256": "453dc58af347b2fe2bab98a27d58d58ba9719e8c8210e01961d54dedb2d2a16e"
+  },
+  {
+    "question_id": "121270",
+    "image_id": 84313,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "f3733bfe0e3ea79466445545e907cb1df2a3d1c0a1c18055c5261f1f4f0e7cdb"
+  },
+  {
+    "question_id": "4269",
+    "image_id": 565220,
+    "width": 500,
+    "height": 430,
+    "rgb_sha256": "b92375b9c233c2a0ca60432305294f3a6432190733f16570f69a4e43e3f5ed26"
+  },
+  {
+    "question_id": "140974",
+    "image_id": 5587,
+    "width": 612,
+    "height": 612,
+    "rgb_sha256": "99669fcb5315c284dbbb9ac9751503722ade2648e1cc34b28cd2c0547003eb4f"
+  },
+  {
+    "question_id": "88817",
+    "image_id": 220842,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "9b8fe5a560e5a9d0d97d45ea1c9166a715e461e5cd6e4c251b1803e0e7e94802"
+  },
+  {
+    "question_id": "141638",
+    "image_id": 2567,
+    "width": 427,
+    "height": 640,
+    "rgb_sha256": "245a92cc71826483df355d04915ceb9c4c4a93634f563e04408f8913d2d20e0e"
+  },
+  {
+    "question_id": "9132",
+    "image_id": 545832,
+    "width": 640,
+    "height": 485,
+    "rgb_sha256": "edb3652945de8b8ab3924d66179c91a61df60d855e79adc18b5b8f7443b1c3a5"
+  },
+  {
+    "question_id": "7614",
+    "image_id": 551793,
+    "width": 640,
+    "height": 424,
+    "rgb_sha256": "208fa4bfaac0a98e27cfb34c395d0769d8aff2889300e8ee4bf6ef3f613cdd54"
+  },
+  {
+    "question_id": "74773",
+    "image_id": 279415,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "6871cf482179933f3de7f9990bb58814a0f4bc12c61e1f07069ef22a49fa2b55"
+  },
+  {
+    "question_id": "32274",
+    "image_id": 451800,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "59dcaa7fe6fafa723bdf97e2aab1db2e9345b418e273d0afc6f20efc5b8032ae"
+  },
+  {
+    "question_id": "70190",
+    "image_id": 298306,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "8f1404f924a64d1182899dcd19324b8fd40864656bf8f90c7a5b330bfb3777fd"
+  },
+  {
+    "question_id": "23557",
+    "image_id": 486936,
+    "width": 640,
+    "height": 478,
+    "rgb_sha256": "43a3710818b9872aa865f24a273d75414355aa11d74c36fcd8d4c9c6a06ca6a2"
+  },
+  {
+    "question_id": "76811",
+    "image_id": 270248,
+    "width": 640,
+    "height": 424,
+    "rgb_sha256": "88e4285744c689d6f1e87816d780989e30cc8c2ac1e4c51bfb780eef93cf84a3"
+  },
+  {
+    "question_id": "89954",
+    "image_id": 216391,
+    "width": 428,
+    "height": 640,
+    "rgb_sha256": "5e713567082c24b21071cdc6a5c7162855703ab338b90ba369a25b73a2921106"
+  },
+  {
+    "question_id": "102681",
+    "image_id": 162200,
+    "width": 480,
+    "height": 640,
+    "rgb_sha256": "be3afcfcd3aee2f37075e44467996a0b8160357b3c1ec2db09afde17e90bfbc0"
+  },
+  {
+    "question_id": "140089",
+    "image_id": 9185,
+    "width": 640,
+    "height": 428,
+    "rgb_sha256": "6ac861958c03e87635c4ba39499674924e47c25f30486e155fa1914bb4c5001d"
+  },
+  {
+    "question_id": "121557",
+    "image_id": 83353,
+    "width": 429,
+    "height": 640,
+    "rgb_sha256": "762a9d1d5bcfda1ce365a464b404ccad5fe62cf0b5c14a92def230a37253aeaf"
+  },
+  {
+    "question_id": "51439",
+    "image_id": 373251,
+    "width": 640,
+    "height": 457,
+    "rgb_sha256": "cff86cfe09542da630a494debcc9747b015c0d515139d58553b9cd791d8a4242"
+  },
+  {
+    "question_id": "79471",
+    "image_id": 260010,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "4b4bacf556a92be6e7ea036333cea3b729b8c818dac55eb136ccba54d278e739"
+  },
+  {
+    "question_id": "92890",
+    "image_id": 204529,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "dd62f5961f25c5c395a08cd996acfe9913fb8692c43c157cddb7c0de660ba1b5"
+  },
+  {
+    "question_id": "134996",
+    "image_id": 29456,
+    "width": 640,
+    "height": 425,
+    "rgb_sha256": "db17563dc21f542b216b051d7da5dde77cc18aff3b5a2eee56f1d356de77ab8f"
+  },
+  {
+    "question_id": "16932",
+    "image_id": 514064,
+    "width": 500,
+    "height": 375,
+    "rgb_sha256": "f14c38534494577d42bdda3ffdfe8193df23f8868b3c016a842b1fabc845b7a4"
+  },
+  {
+    "question_id": "51539",
+    "image_id": 372871,
+    "width": 640,
+    "height": 428,
+    "rgb_sha256": "99d3a0e704ccfef498986aa8b6d2c45ab005715477b31cb4cf31dcb1ec7db91b"
+  },
+  {
+    "question_id": "138732",
+    "image_id": 14686,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "7632b079d35003a5eaab18f2590395db9a700557df95df3166e050a3c534b022"
+  },
+  {
+    "question_id": "141028",
+    "image_id": 5424,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "d214054e763beff9e644fb4a5e16f45984768dcd471d5b099c9e533b60572f9b"
+  },
+  {
+    "question_id": "77395",
+    "image_id": 267871,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "400dc217597467d7f30506bda447c63a498de92ccf18c76e38d9eae8831a8316"
+  },
+  {
+    "question_id": "14859",
+    "image_id": 521800,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "622e035b43575153d4bec0d8449f655e96ca537416a374316dbbc7a4a186fff5"
+  },
+  {
+    "question_id": "115447",
+    "image_id": 108375,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "a46ca170dbdeaeda68b688464988196fa61581ff09b155f0c429364af47aa01f"
+  },
+  {
+    "question_id": "61796",
+    "image_id": 330284,
+    "width": 640,
+    "height": 428,
+    "rgb_sha256": "dc74152807df2fcdb057dc9c30b50180a5a5f2ac0fedee7a80f209ad8aa86a9e"
+  },
+  {
+    "question_id": "23369",
+    "image_id": 487602,
+    "width": 480,
+    "height": 640,
+    "rgb_sha256": "1c46eb9bf46f7c750c0f60772571124c802fc3349d816b6e70b070fec411d580"
+  },
+  {
+    "question_id": "83551",
+    "image_id": 243153,
+    "width": 640,
+    "height": 437,
+    "rgb_sha256": "68f97c65abe8081e8adc0d629f2730ee92773ce64a21b2e977eceb2d3f4073a9"
+  },
+  {
+    "question_id": "25877",
+    "image_id": 477797,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "d9b3400c312161159bb5c1165549ea44856d3712b70081a9ecd5ce5084812423"
+  },
+  {
+    "question_id": "66173",
+    "image_id": 314051,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "c98b9ef3f3136b73be45ba2568ed701aa9f5d82bdf39db800153eabe25bb36ce"
+  },
+  {
+    "question_id": "42553",
+    "image_id": 409825,
+    "width": 640,
+    "height": 378,
+    "rgb_sha256": "a21af49a90c27b09d5aa9fe5df77e823d1b361fdb1dda3e1c124379339c97c9d"
+  },
+  {
+    "question_id": "25677",
+    "image_id": 478712,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "149c06b5a8916d037e3c59f2c70da03c23cb5199a87d679ed4b4e4f6423338ae"
+  },
+  {
+    "question_id": "122810",
+    "image_id": 78307,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "01fb609175e3714f2fcbacbc0f010385afe01ad6aa0bba5481988d34f7b2d097"
+  },
+  {
+    "question_id": "85926",
+    "image_id": 233007,
+    "width": 320,
+    "height": 213,
+    "rgb_sha256": "99dceb8b0cf3274e74870c32944ddbfcfcf77f98af8df1a081a9f201ce07dae3"
+  },
+  {
+    "question_id": "81331",
+    "image_id": 252136,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "b863208bd173b5ff3d67eb2101f6c720f7cb505ece9229926b700dafde7c3977"
+  },
+  {
+    "question_id": "94436",
+    "image_id": 197662,
+    "width": 640,
+    "height": 425,
+    "rgb_sha256": "d65a757cb0d65bf578fdc58546629e2f9903030cfa784876cd997633775bb4f1"
+  },
+  {
+    "question_id": "56294",
+    "image_id": 351397,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "29dcbc12abe667606a813e0a7f90b9ed8fa0e583ec953e528a39fd5c32fa2ed8"
+  },
+  {
+    "question_id": "89767",
+    "image_id": 217268,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "d97992e3d04612929c80f1ba3c845cf585e3f63061d8162246cb4fca0b5ab7fd"
+  },
+  {
+    "question_id": "64035",
+    "image_id": 322517,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "ce72ea3edb84bd7d3a4e03ef884352c100a0ec17f4c10ae1930f05f1f23a70fa"
+  },
+  {
+    "question_id": "8281",
+    "image_id": 549184,
+    "width": 500,
+    "height": 400,
+    "rgb_sha256": "613cb586abcab3cd29d5ade613a22cfc7a1f49c6a3917ad9d0db905d3608167a"
+  },
+  {
+    "question_id": "89496",
+    "image_id": 218447,
+    "width": 640,
+    "height": 429,
+    "rgb_sha256": "7b51f4ae8fd011fcfec913ea928cad9a4d8f1e6758646903ee6e4a9fba3bcb84"
+  },
+  {
+    "question_id": "82520",
+    "image_id": 247126,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "f3fd8790a3c2f51f88fc34ffaaf5cc5ef38940cac6a1248db8d160aef1d3cae5"
+  },
+  {
+    "question_id": "39120",
+    "image_id": 424278,
+    "width": 640,
+    "height": 484,
+    "rgb_sha256": "853159fad15abdc343a16d98096937216a5b05d38d2121f36f797905c363b98c"
+  },
+  {
+    "question_id": "72173",
+    "image_id": 289782,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "9f2f7bba293e3d8662cd7e3f160d8f91f3d430c0351aede7e6d1c2d556ea3432"
+  },
+  {
+    "question_id": "87030",
+    "image_id": 227825,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "e2d54aaf3462b8415a83802df462105143c2165618e6a89e666033d5e453d0ec"
+  },
+  {
+    "question_id": "32780",
+    "image_id": 449780,
+    "width": 516,
+    "height": 640,
+    "rgb_sha256": "9d7d5a0cef8cc768e5feb8560c1475c41cce23898572f4633956d23ac9cf9237"
+  },
+  {
+    "question_id": "118738",
+    "image_id": 94459,
+    "width": 480,
+    "height": 640,
+    "rgb_sha256": "e6ccdca30eb3abce9d7fd6eee1e3c402d899217949cc0dd01d4931d0b0271ec9"
+  },
+  {
+    "question_id": "4691",
+    "image_id": 563679,
+    "width": 500,
+    "height": 333,
+    "rgb_sha256": "291552f21aa86d735b7552d1676469a95ff3df9a77bca348e3b5680a1c0c8139"
+  },
+  {
+    "question_id": "11730",
+    "image_id": 535049,
+    "width": 640,
+    "height": 428,
+    "rgb_sha256": "43161617d9eeadfa9ef7931cc8c96417f73b7754dc7fcec541f13f7eeff0abfb"
+  },
+  {
+    "question_id": "108910",
+    "image_id": 135822,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "49693989de742b378bccb3ce06ac1b3c668726015c974f47f915fe96ab90d5e7"
+  },
+  {
+    "question_id": "105534",
+    "image_id": 149616,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "b2c82f2a6ff289dce2bb021e90c7da04b773d9452bbb154493497e5fdbaba4bf"
+  },
+  {
+    "question_id": "25862",
+    "image_id": 477828,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "b3a0a6a7f8b2d3cf3599644d2b01bc9820eab024c7d54ba4c7260f2a5399b1d4"
+  },
+  {
+    "question_id": "1622",
+    "image_id": 575826,
+    "width": 640,
+    "height": 503,
+    "rgb_sha256": "ffe5a5cc3c1eaace90c9b9ffb227a589a29fde719cbff17f2cadbc7f34c007b5"
+  },
+  {
+    "question_id": "105301",
+    "image_id": 150704,
+    "width": 640,
+    "height": 542,
+    "rgb_sha256": "022d091a6ab03a4b948f887ab07414f8e43fa9a4822da537f6a47019c89cef56"
+  },
+  {
+    "question_id": "94442",
+    "image_id": 197651,
+    "width": 640,
+    "height": 513,
+    "rgb_sha256": "1c4f61d5a3079bf1b2f267649de2c344cf23441fc8a5bc9293b50f0222969663"
+  },
+  {
+    "question_id": "513",
+    "image_id": 580008,
+    "width": 372,
+    "height": 500,
+    "rgb_sha256": "c22653a2a22119962d4f8861db388ef8cc6babbcf57db27cb33a7ddb748e8de9"
+  },
+  {
+    "question_id": "125746",
+    "image_id": 65842,
+    "width": 640,
+    "height": 438,
+    "rgb_sha256": "73982df711b99e29c502611b70957e28d56c3866097cd50475bcbfffef46e26b"
+  },
+  {
+    "question_id": "114065",
+    "image_id": 114807,
+    "width": 500,
+    "height": 375,
+    "rgb_sha256": "eea06368bccd22c7e660813b61b7a54236ff5f38b2f5b1acb798d7f7e40b7217"
+  },
+  {
+    "question_id": "70841",
+    "image_id": 296360,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "7deeef467df4c9ed72e72efa14e21b7f0de78890b144a803e6eb67596453696a"
+  },
+  {
+    "question_id": "17714",
+    "image_id": 510680,
+    "width": 640,
+    "height": 424,
+    "rgb_sha256": "fd81d0b96ba235681ad692f25406a733f36c5d1ccef5470a69cbabbbf1b06872"
+  },
+  {
+    "question_id": "99276",
+    "image_id": 177289,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "22ff97edda8671383b5d43e59119c85e30c349e4cc0c5e0dd9321f786d1e051c"
+  },
+  {
+    "question_id": "33059",
+    "image_id": 448531,
+    "width": 612,
+    "height": 612,
+    "rgb_sha256": "910b0fb05938ea0557a1db52caf7b446994e0c9ebdfe425c8d051ffada0678d8"
+  },
+  {
+    "question_id": "40964",
+    "image_id": 416651,
+    "width": 640,
+    "height": 523,
+    "rgb_sha256": "34f50860de92ce9bb2a41f606988f2a7976cf6ac651861813db75e517f2466c1"
+  },
+  {
+    "question_id": "18285",
+    "image_id": 508140,
+    "width": 640,
+    "height": 426,
+    "rgb_sha256": "8678da9c509c81eacc1878787c5ba2346ee86f3f5e8afc5daf72f31cc9928346"
+  },
+  {
+    "question_id": "61431",
+    "image_id": 331463,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "bdca8974dd177379749207f66fa25fc928f4be2b549cfe173e055ef79ad4f70d"
+  },
+  {
+    "question_id": "47968",
+    "image_id": 387717,
+    "width": 500,
+    "height": 430,
+    "rgb_sha256": "223ec247e5443693227a33ce674d75aef8457c1e8c98306fd39f9b9f3dbc0c9a"
+  },
+  {
+    "question_id": "126745",
+    "image_id": 61877,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "9e8bdf36261f2aaac3b17a90ae3a7549c7ab2a6cd17bba08d39efef2ce81d847"
+  },
+  {
+    "question_id": "111456",
+    "image_id": 125350,
+    "width": 500,
+    "height": 333,
+    "rgb_sha256": "500530129fb3307f0a418c991048f23323002bc344c1ef7a1d0e6fa085b74c17"
+  },
+  {
+    "question_id": "21721",
+    "image_id": 494552,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "4964b621ab3d7366090e5aea04857a7e79ea1f9444285364eb03ed0515806bd7"
+  },
+  {
+    "question_id": "5614",
+    "image_id": 560532,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "316ba4645e13e3ce1252e5ce171583cdca304606ef87a0df6e979ee895a81fca"
+  },
+  {
+    "question_id": "15677",
+    "image_id": 518552,
+    "width": 640,
+    "height": 640,
+    "rgb_sha256": "2055addc8d3f96f63af642fffb974461a1e304ccd08843833de27adb435258b4"
+  },
+  {
+    "question_id": "58026",
+    "image_id": 344319,
+    "width": 640,
+    "height": 427,
+    "rgb_sha256": "a0377be500047dbd5548fb7b21d45127722c16bc7505e5c48294ebad91f9d5cb"
+  },
+  {
+    "question_id": "45074",
+    "image_id": 399354,
+    "width": 500,
+    "height": 375,
+    "rgb_sha256": "0d87b90ccc1e65334fc9d06e00d05a52d35a7ffa6ff51303840be9fb85577b52"
+  },
+  {
+    "question_id": "3154",
+    "image_id": 569613,
+    "width": 640,
+    "height": 425,
+    "rgb_sha256": "7455647e2e1dfa0d08a9560f6fa381f4b9b90847b25c099eec66d49266c90452"
+  },
+  {
+    "question_id": "20110",
+    "image_id": 500982,
+    "width": 500,
+    "height": 375,
+    "rgb_sha256": "286555f7fcfbc834243c01f38acf8f4565af8a163ca1d07189f43ba52ebb2f04"
+  },
+  {
+    "question_id": "79673",
+    "image_id": 259104,
+    "width": 640,
+    "height": 480,
+    "rgb_sha256": "e231218f00157fd9ae63fc61f13f1d7071c2544f162afed3c5627f5cece2e817"
+  },
+  {
+    "question_id": "108998",
+    "image_id": 135348,
+    "width": 426,
+    "height": 640,
+    "rgb_sha256": "27309a44f1a42c73ba578d39ee0090d8bbb9ef8bd5f178243f23c1280fcdcfc3"
+  },
+  {
+    "question_id": "39940",
+    "image_id": 420892,
+    "width": 424,
+    "height": 640,
+    "rgb_sha256": "200c8809efc85313000a61a1d737ccb56163f360a55d5d731f3931f14f0997ac"
+  }
+]

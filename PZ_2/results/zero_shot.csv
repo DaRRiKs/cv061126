@@ -1,0 +1,7 @@
+model,prompt,accuracy,n
+openai/clip-vit-base-patch32,class,0.8735,10000
+openai/clip-vit-base-patch32,photo,0.888,10000
+openai/clip-vit-base-patch32,ensemble,0.8913,10000
+google/siglip-base-patch16-224,class,0.91,10000
+google/siglip-base-patch16-224,photo,0.9254,10000
+google/siglip-base-patch16-224,ensemble,0.9256,10000

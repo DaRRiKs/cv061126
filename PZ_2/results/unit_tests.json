@@ -1,0 +1,11 @@
+{
+  "B1_InfoNCE": 0.0,
+  "InfoNCE_scales_1_10_100": [
+    1.874597191810608,
+    0.000680915080010891,
+    0.0
+  ],
+  "SigLIP_random_loss": 10.25728702545166,
+  "gradient_finite": true,
+  "passed": true
+}

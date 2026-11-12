@@ -1,0 +1,23 @@
+[
+  {
+    "resolution": "0.25 MP",
+    "max_pixels": 249312,
+    "height": 560,
+    "width": 420,
+    "visual_tokens": 300
+  },
+  {
+    "resolution": "1 MP",
+    "max_pixels": 999600,
+    "height": 1148,
+    "width": 840,
+    "visual_tokens": 1230
+  },
+  {
+    "resolution": "4 MP",
+    "max_pixels": 3999968,
+    "height": 1988,
+    "width": 1512,
+    "visual_tokens": 3834
+  }
+]

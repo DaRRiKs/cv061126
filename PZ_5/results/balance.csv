@@ -1,0 +1,7 @@
+mode,label,questions
+adversarial,0,300
+adversarial,1,300
+popular,0,300
+popular,1,300
+random,0,300
+random,1,300

@@ -1,0 +1,4282 @@
+{
+  "dataset": "jxu124/refcoco",
+  "revision": "9fba8200c5326e996f789191f095bd464ef1d09e",
+  "seed": 42,
+  "partition": "unc",
+  "split": "validation",
+  "source_rows": 3811,
+  "source_sha256": "df03b1b16873f92727f3df010afb3c7260e8396a86592d3c4fee053daca08c05",
+  "calibration": [
+    {
+      "question_id": "17488",
+      "ref_id": 6144,
+      "ann_id": 347072,
+      "image_id": 511642,
+      "split": "train",
+      "width": 640,
+      "height": 426,
+      "expression": "left car",
+      "references": [
+        "left car",
+        "left car",
+        "car on left"
+      ],
+      "target_box": [
+        0.0,
+        58.42,
+        322.14,
+        193.05
+      ]
+    },
+    {
+      "question_id": "19555",
+      "ref_id": 6870,
+      "ann_id": 1081455,
+      "image_id": 503227,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "The chocolate covered donut in the middle.",
+      "references": [
+        "The chocolate covered donut in the middle.",
+        "middle donut solid",
+        "middle donut"
+      ],
+      "target_box": [
+        258.38,
+        183.78,
+        393.51,
+        302.7
+      ]
+    },
+    {
+      "question_id": "102346",
+      "ref_id": 35981,
+      "ann_id": 2165500,
+      "image_id": 163828,
+      "split": "train",
+      "width": 640,
+      "height": 512,
+      "expression": "batter",
+      "references": [
+        "batter",
+        "hitta"
+      ],
+      "target_box": [
+        380.32,
+        108.69,
+        525.9300000000001,
+        413.1
+      ]
+    },
+    {
+      "question_id": "136797",
+      "ref_id": 48097,
+      "ann_id": 497944,
+      "image_id": 22575,
+      "split": "train",
+      "width": 500,
+      "height": 375,
+      "expression": "man in pink",
+      "references": [
+        "man in pink",
+        "red shirt",
+        "pink shirt"
+      ],
+      "target_box": [
+        35.17,
+        90.38,
+        171.53000000000003,
+        375.0
+      ]
+    },
+    {
+      "question_id": "71654",
+      "ref_id": 25205,
+      "ann_id": 366321,
+      "image_id": 292498,
+      "split": "train",
+      "width": 640,
+      "height": 361,
+      "expression": "bus on right in back",
+      "references": [
+        "bus on right in back",
+        "bus far right",
+        "back bus"
+      ],
+      "target_box": [
+        482.69,
+        135.48,
+        598.69,
+        243.37
+      ]
+    }
+  ],
+  "evaluation": [
+    {
+      "question_id": "60066",
+      "ref_id": 21117,
+      "ann_id": 584570,
+      "image_id": 336185,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "little elephant",
+      "references": [
+        "little elephant",
+        "small ele"
+      ],
+      "target_box": [
+        330.3,
+        196.11,
+        487.32000000000005,
+        378.97
+      ]
+    },
+    {
+      "question_id": "48034",
+      "ref_id": 16884,
+      "ann_id": 1058347,
+      "image_id": 387513,
+      "split": "train",
+      "width": 640,
+      "height": 428,
+      "expression": "brocoli bottom left",
+      "references": [
+        "brocoli bottom left",
+        "lower left green broccoli",
+        "brocolli on left"
+      ],
+      "target_box": [
+        64.45,
+        266.87,
+        219.54000000000002,
+        422.96000000000004
+      ]
+    },
+    {
+      "question_id": "14678",
+      "ref_id": 5154,
+      "ann_id": 1056123,
+      "image_id": 522365,
+      "split": "train",
+      "width": 500,
+      "height": 375,
+      "expression": "uppermost big broccoli",
+      "references": [
+        "uppermost big broccoli",
+        "piece of broccoli at top of plate"
+      ],
+      "target_box": [
+        145.39,
+        44.99,
+        290.78,
+        167.33
+      ]
+    },
+    {
+      "question_id": "36381",
+      "ref_id": 12785,
+      "ann_id": 1599271,
+      "image_id": 435076,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "empty chair next to man",
+      "references": [
+        "empty chair next to man",
+        "chair empty next to guy"
+      ],
+      "target_box": [
+        298.42,
+        328.17,
+        464.42,
+        422.20000000000005
+      ]
+    },
+    {
+      "question_id": "104602",
+      "ref_id": 36778,
+      "ann_id": 1077744,
+      "image_id": 153711,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "left side just below middle of pizza",
+      "references": [
+        "left side just below middle of pizza",
+        "slice on left that is 2nd from the center cut",
+        "bottom left corner slice of pizza at 8 o clock position"
+      ],
+      "target_box": [
+        1.36,
+        182.37,
+        334.92,
+        433.22
+      ]
+    },
+    {
+      "question_id": "80217",
+      "ref_id": 28205,
+      "ann_id": 1923938,
+      "image_id": 256546,
+      "split": "train",
+      "width": 640,
+      "height": 640,
+      "expression": "the pizza slice has sauce on it",
+      "references": [
+        "the pizza slice has sauce on it",
+        "bottom left piece with tomato sauce",
+        "bottom left piece with tomato on it"
+      ],
+      "target_box": [
+        33.25,
+        360.73,
+        287.58000000000004,
+        583.48
+      ]
+    },
+    {
+      "question_id": "128642",
+      "ref_id": 45236,
+      "ann_id": 1757100,
+      "image_id": 55237,
+      "split": "train",
+      "width": 640,
+      "height": 506,
+      "expression": "black tank top",
+      "references": [
+        "black tank top",
+        "woman blue tank",
+        "woman front row"
+      ],
+      "target_box": [
+        13.74,
+        218.64,
+        208.65,
+        498.5
+      ]
+    },
+    {
+      "question_id": "16792",
+      "ref_id": 5898,
+      "ann_id": 2153129,
+      "image_id": 514622,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "man in pink tie next to a woman",
+      "references": [
+        "man in pink tie next to a woman",
+        "man",
+        "guy"
+      ],
+      "target_box": [
+        285.51,
+        96.87,
+        603.4300000000001,
+        437.24
+      ]
+    },
+    {
+      "question_id": "64727",
+      "ref_id": 22758,
+      "ann_id": 540661,
+      "image_id": 320059,
+      "split": "train",
+      "width": 478,
+      "height": 640,
+      "expression": "woman in front",
+      "references": [
+        "woman in front",
+        "lady smiling",
+        "woman"
+      ],
+      "target_box": [
+        67.6,
+        77.66,
+        384.0,
+        631.37
+      ]
+    },
+    {
+      "question_id": "49449",
+      "ref_id": 17381,
+      "ann_id": 482963,
+      "image_id": 381889,
+      "split": "train",
+      "width": 480,
+      "height": 640,
+      "expression": "Woman cutting cake",
+      "references": [
+        "Woman cutting cake",
+        "girl on right",
+        "girl in red"
+      ],
+      "target_box": [
+        165.39,
+        168.37,
+        343.73,
+        630.03
+      ]
+    },
+    {
+      "question_id": "47151",
+      "ref_id": 16572,
+      "ann_id": 61153,
+      "image_id": 391229,
+      "split": "train",
+      "width": 640,
+      "height": 320,
+      "expression": "Sheep on far right",
+      "references": [
+        "Sheep on far right",
+        "sheep on right",
+        "the goat on the right"
+      ],
+      "target_box": [
+        228.67,
+        20.33,
+        380.42999999999995,
+        283.33
+      ]
+    },
+    {
+      "question_id": "120615",
+      "ref_id": 42423,
+      "ann_id": 1297647,
+      "image_id": 87248,
+      "split": "train",
+      "width": 640,
+      "height": 388,
+      "expression": "girl far right with racquet",
+      "references": [
+        "girl far right with racquet",
+        "GIRL RIGHT BLACK PANTS"
+      ],
+      "target_box": [
+        444.63,
+        52.6,
+        528.18,
+        388.0
+      ]
+    },
+    {
+      "question_id": "37180",
+      "ref_id": 13069,
+      "ann_id": 154051,
+      "image_id": 431400,
+      "split": "train",
+      "width": 640,
+      "height": 424,
+      "expression": "bike all the way to the right",
+      "references": [
+        "bike all the way to the right",
+        "Black motocicle",
+        "motorcycle, rightmost"
+      ],
+      "target_box": [
+        464.2,
+        162.93,
+        640.0,
+        390.65
+      ]
+    },
+    {
+      "question_id": "78601",
+      "ref_id": 27638,
+      "ann_id": 1161870,
+      "image_id": 263039,
+      "split": "train",
+      "width": 375,
+      "height": 500,
+      "expression": "teddy bear in front",
+      "references": [
+        "teddy bear in front",
+        "pink",
+        "right bear"
+      ],
+      "target_box": [
+        158.43,
+        235.96,
+        375.0,
+        500.0
+      ]
+    },
+    {
+      "question_id": "122792",
+      "ref_id": 43193,
+      "ann_id": 1314523,
+      "image_id": 78322,
+      "split": "train",
+      "width": 640,
+      "height": 456,
+      "expression": "second from left",
+      "references": [
+        "second from left",
+        "O R LOL 2 FROM L",
+        "second from left"
+      ],
+      "target_box": [
+        68.66,
+        131.42,
+        191.62,
+        410.14
+      ]
+    },
+    {
+      "question_id": "38184",
+      "ref_id": 13422,
+      "ann_id": 599153,
+      "image_id": 427461,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "left giraffe",
+      "references": [
+        "left giraffe",
+        "giraffe left",
+        "left giraffe"
+      ],
+      "target_box": [
+        0.0,
+        17.29,
+        304.73,
+        420.41
+      ]
+    },
+    {
+      "question_id": "64871",
+      "ref_id": 22812,
+      "ann_id": 1202916,
+      "image_id": 319644,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "kneeling kid holding white bat",
+      "references": [
+        "kneeling kid holding white bat",
+        "boy with top of white bat on chest"
+      ],
+      "target_box": [
+        320.3,
+        213.33,
+        428.84000000000003,
+        462.06
+      ]
+    },
+    {
+      "question_id": "114608",
+      "ref_id": 40311,
+      "ann_id": 397648,
+      "image_id": 112040,
+      "split": "train",
+      "width": 612,
+      "height": 612,
+      "expression": "A truck parked",
+      "references": [
+        "A truck parked",
+        "black/green truck",
+        "black truck"
+      ],
+      "target_box": [
+        110.02,
+        257.18,
+        518.48,
+        490.98
+      ]
+    },
+    {
+      "question_id": "57896",
+      "ref_id": 20351,
+      "ann_id": 505807,
+      "image_id": 345019,
+      "split": "train",
+      "width": 640,
+      "height": 368,
+      "expression": "person on right",
+      "references": [
+        "person on right",
+        "person on right",
+        "person on right"
+      ],
+      "target_box": [
+        371.31,
+        81.62,
+        640.0,
+        322.27
+      ]
+    },
+    {
+      "question_id": "70693",
+      "ref_id": 24871,
+      "ann_id": 444588,
+      "image_id": 296894,
+      "split": "train",
+      "width": 480,
+      "height": 640,
+      "expression": "girl in white tank",
+      "references": [
+        "girl in white tank",
+        "right lady",
+        "white tank glasses"
+      ],
+      "target_box": [
+        211.42,
+        313.1,
+        480.0,
+        623.75
+      ]
+    },
+    {
+      "question_id": "60225",
+      "ref_id": 21174,
+      "ann_id": 582602,
+      "image_id": 335697,
+      "split": "train",
+      "width": 640,
+      "height": 423,
+      "expression": "elephant on right",
+      "references": [
+        "elephant on right",
+        "right ele",
+        "right most trunk"
+      ],
+      "target_box": [
+        506.46,
+        2.8,
+        638.29,
+        324.32
+      ]
+    },
+    {
+      "question_id": "2999",
+      "ref_id": 1056,
+      "ann_id": 1059389,
+      "image_id": 570178,
+      "split": "train",
+      "width": 640,
+      "height": 594,
+      "expression": "brocvoli right back",
+      "references": [
+        "brocvoli right back",
+        "bigger broccoli",
+        "top piece of broccoli"
+      ],
+      "target_box": [
+        367.58,
+        153.74,
+        539.49,
+        317.27
+      ]
+    },
+    {
+      "question_id": "124027",
+      "ref_id": 43625,
+      "ann_id": 589374,
+      "image_id": 73387,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "zebra behind the other one",
+      "references": [
+        "zebra behind the other one",
+        "zebra in the back"
+      ],
+      "target_box": [
+        95.96,
+        108.14,
+        455.78999999999996,
+        372.01
+      ]
+    },
+    {
+      "question_id": "112054",
+      "ref_id": 39408,
+      "ann_id": 530665,
+      "image_id": 122916,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "red shirt",
+      "references": [
+        "red shirt",
+        "red coat"
+      ],
+      "target_box": [
+        346.4,
+        60.45,
+        422.2,
+        294.58
+      ]
+    },
+    {
+      "question_id": "38840",
+      "ref_id": 13649,
+      "ann_id": 1573862,
+      "image_id": 425063,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "PASTRY ABOVE THE BROWN DONUT",
+      "references": [
+        "PASTRY ABOVE THE BROWN DONUT",
+        "Whit dognut at the top next to the black donuts"
+      ],
+      "target_box": [
+        330.81,
+        48.65,
+        480.0,
+        189.19
+      ]
+    },
+    {
+      "question_id": "83708",
+      "ref_id": 29438,
+      "ann_id": 172766,
+      "image_id": 242506,
+      "split": "train",
+      "width": 640,
+      "height": 360,
+      "expression": "left ridges",
+      "references": [
+        "left ridges",
+        "leftmost in this image",
+        "Left edge"
+      ],
+      "target_box": [
+        1.63,
+        1.9,
+        210.60999999999999,
+        351.28999999999996
+      ]
+    },
+    {
+      "question_id": "107603",
+      "ref_id": 37841,
+      "ann_id": 161715,
+      "image_id": 140733,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "bottom plane",
+      "references": [
+        "bottom plane",
+        "bottom planre",
+        "bottom airplaine"
+      ],
+      "target_box": [
+        141.05,
+        217.1,
+        344.48,
+        393.65999999999997
+      ]
+    },
+    {
+      "question_id": "120240",
+      "ref_id": 42291,
+      "ann_id": 597419,
+      "image_id": 88868,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "giraffe",
+      "references": [
+        "giraffe",
+        "giraffee eating tree",
+        "GIRAFFE"
+      ],
+      "target_box": [
+        307.42,
+        125.12,
+        542.56,
+        416.36
+      ]
+    },
+    {
+      "question_id": "26735",
+      "ref_id": 9388,
+      "ann_id": 1243422,
+      "image_id": 474123,
+      "split": "train",
+      "width": 427,
+      "height": 640,
+      "expression": "Woman with tattoos on her left forearm playing WII",
+      "references": [
+        "Woman with tattoos on her left forearm playing WII",
+        "tats chick",
+        "woman"
+      ],
+      "target_box": [
+        1.44,
+        181.21,
+        427.0,
+        631.37
+      ]
+    },
+    {
+      "question_id": "69266",
+      "ref_id": 24372,
+      "ann_id": 2160838,
+      "image_id": 302397,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "middle person",
+      "references": [
+        "middle person",
+        "person on back with blue striped pants",
+        "person orange shirt"
+      ],
+      "target_box": [
+        223.01,
+        162.95,
+        316.62,
+        380.49
+      ]
+    },
+    {
+      "question_id": "116351",
+      "ref_id": 40930,
+      "ann_id": 510555,
+      "image_id": 104304,
+      "split": "train",
+      "width": 480,
+      "height": 640,
+      "expression": "stylist",
+      "references": [
+        "stylist",
+        "woman standing",
+        "Woman doing the hair"
+      ],
+      "target_box": [
+        144.65,
+        130.15,
+        445.41999999999996,
+        396.48
+      ]
+    },
+    {
+      "question_id": "16618",
+      "ref_id": 5837,
+      "ann_id": 1226988,
+      "image_id": 515181,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "person in front red hat and goggles",
+      "references": [
+        "person in front red hat and goggles",
+        "kid in forefront, wearing red goggles"
+      ],
+      "target_box": [
+        48.11,
+        117.88,
+        271.84,
+        427.0
+      ]
+    },
+    {
+      "question_id": "76221",
+      "ref_id": 26803,
+      "ann_id": 273746,
+      "image_id": 273197,
+      "split": "train",
+      "width": 623,
+      "height": 640,
+      "expression": "horse on right",
+      "references": [
+        "horse on right",
+        "the  dark brown horse",
+        "right (>>>>) horse. ;p"
+      ],
+      "target_box": [
+        415.84,
+        182.56,
+        611.3,
+        591.49
+      ]
+    },
+    {
+      "question_id": "48756",
+      "ref_id": 17136,
+      "ann_id": 597131,
+      "image_id": 384836,
+      "split": "train",
+      "width": 500,
+      "height": 375,
+      "expression": "front giraffe looking at us",
+      "references": [
+        "front giraffe looking at us",
+        "big boy",
+        "giraffe right"
+      ],
+      "target_box": [
+        102.58,
+        12.61,
+        495.24,
+        370.8
+      ]
+    },
+    {
+      "question_id": "50604",
+      "ref_id": 17790,
+      "ann_id": 248855,
+      "image_id": 377174,
+      "split": "train",
+      "width": 612,
+      "height": 612,
+      "expression": "train in background",
+      "references": [
+        "train in background",
+        "train back"
+      ],
+      "target_box": [
+        429.64,
+        267.66,
+        612.0,
+        512.19
+      ]
+    },
+    {
+      "question_id": "10897",
+      "ref_id": 3821,
+      "ann_id": 1218614,
+      "image_id": 538263,
+      "split": "train",
+      "width": 428,
+      "height": 640,
+      "expression": "player",
+      "references": [
+        "player",
+        "pitcher",
+        "guy in blue"
+      ],
+      "target_box": [
+        97.8,
+        188.4,
+        264.63,
+        542.2
+      ]
+    },
+    {
+      "question_id": "100780",
+      "ref_id": 35431,
+      "ann_id": 365688,
+      "image_id": 170683,
+      "split": "train",
+      "width": 640,
+      "height": 567,
+      "expression": "bus on left",
+      "references": [
+        "bus on left",
+        "bus on the left"
+      ],
+      "target_box": [
+        12.53,
+        343.97,
+        291.23999999999995,
+        435.89000000000004
+      ]
+    },
+    {
+      "question_id": "53254",
+      "ref_id": 18721,
+      "ann_id": 581477,
+      "image_id": 364683,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "elephant on right",
+      "references": [
+        "elephant on right",
+        "elephant rear",
+        "right ele"
+      ],
+      "target_box": [
+        294.08,
+        178.11,
+        509.05999999999995,
+        434.59000000000003
+      ]
+    },
+    {
+      "question_id": "35696",
+      "ref_id": 12544,
+      "ann_id": 430089,
+      "image_id": 438045,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "the man in the green shirt",
+      "references": [
+        "the man in the green shirt",
+        "black guy on the right",
+        "boy in green"
+      ],
+      "target_box": [
+        240.26,
+        92.23,
+        622.8499999999999,
+        384.87
+      ]
+    },
+    {
+      "question_id": "41547",
+      "ref_id": 14600,
+      "ann_id": 63986,
+      "image_id": 414032,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "SHEEP ON RIGHT",
+      "references": [
+        "SHEEP ON RIGHT",
+        "right",
+        "right animal"
+      ],
+      "target_box": [
+        346.68,
+        168.32,
+        557.39,
+        335.99
+      ]
+    },
+    {
+      "question_id": "74564",
+      "ref_id": 26223,
+      "ann_id": 713582,
+      "image_id": 280018,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "top left white stuff",
+      "references": [
+        "top left white stuff",
+        "bowl on the left",
+        "tuna bowl"
+      ],
+      "target_box": [
+        1.08,
+        23.73,
+        293.39,
+        256.72
+      ]
+    },
+    {
+      "question_id": "94558",
+      "ref_id": 33253,
+      "ann_id": 313700,
+      "image_id": 197289,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "sauage with tomoato on top in front of us",
+      "references": [
+        "sauage with tomoato on top in front of us",
+        "center slider",
+        "one topped with tomato"
+      ],
+      "target_box": [
+        90.95,
+        119.63,
+        401.15,
+        393.44
+      ]
+    },
+    {
+      "question_id": "65391",
+      "ref_id": 22995,
+      "ann_id": 99845,
+      "image_id": 317659,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "red sofa in front of window",
+      "references": [
+        "red sofa in front of window",
+        "pink stripped sofa",
+        "pink sofa"
+      ],
+      "target_box": [
+        0.0,
+        212.42,
+        328.17,
+        396.98
+      ]
+    },
+    {
+      "question_id": "69313",
+      "ref_id": 24390,
+      "ann_id": 432987,
+      "image_id": 302103,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "man on far left",
+      "references": [
+        "man on far left",
+        "person on far left",
+        "person farthest left"
+      ],
+      "target_box": [
+        1.91,
+        159.84,
+        122.55,
+        422.16999999999996
+      ]
+    },
+    {
+      "question_id": "136413",
+      "ref_id": 47963,
+      "ann_id": 1716403,
+      "image_id": 24026,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "arm and hands reaching in for pizza left bottom",
+      "references": [
+        "arm and hands reaching in for pizza left bottom",
+        "hands left",
+        "left the hand"
+      ],
+      "target_box": [
+        0.0,
+        211.86,
+        271.84,
+        427.0
+      ]
+    },
+    {
+      "question_id": "89638",
+      "ref_id": 31519,
+      "ann_id": 585404,
+      "image_id": 217799,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "2nd one",
+      "references": [
+        "2nd one",
+        "THE ELEPHANT THAT IS STANDING IN THE BACK",
+        "elephant in back"
+      ],
+      "target_box": [
+        217.33,
+        77.5,
+        557.21,
+        418.34
+      ]
+    },
+    {
+      "question_id": "78001",
+      "ref_id": 27427,
+      "ann_id": 1910020,
+      "image_id": 265329,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "salad stuff with ketchup on",
+      "references": [
+        "salad stuff with ketchup on",
+        "lettuce",
+        "lettuce and all on the right"
+      ],
+      "target_box": [
+        218.18,
+        38.65,
+        640.0,
+        473.77
+      ]
+    },
+    {
+      "question_id": "91381",
+      "ref_id": 32136,
+      "ann_id": 505299,
+      "image_id": 210252,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "guy in white shirt...getting ready to be axed",
+      "references": [
+        "guy in white shirt...getting ready to be axed",
+        "main guy",
+        "man left"
+      ],
+      "target_box": [
+        113.96,
+        0.38,
+        378.7,
+        427.0
+      ]
+    },
+    {
+      "question_id": "48608",
+      "ref_id": 17084,
+      "ann_id": 493447,
+      "image_id": 385505,
+      "split": "train",
+      "width": 640,
+      "height": 454,
+      "expression": "man white shirt standing up",
+      "references": [
+        "man white shirt standing up",
+        "guy in white",
+        "guy left"
+      ],
+      "target_box": [
+        0.0,
+        33.61,
+        352.43,
+        449.02000000000004
+      ]
+    },
+    {
+      "question_id": "129061",
+      "ref_id": 45383,
+      "ann_id": 376962,
+      "image_id": 53643,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "white chair on left side close to table",
+      "references": [
+        "white chair on left side close to table",
+        "close chair to far left... touching table",
+        "chair on left"
+      ],
+      "target_box": [
+        2.25,
+        100.19,
+        121.06,
+        235.73
+      ]
+    },
+    {
+      "question_id": "85312",
+      "ref_id": 30001,
+      "ann_id": 365276,
+      "image_id": 235802,
+      "split": "train",
+      "width": 640,
+      "height": 488,
+      "expression": "left one",
+      "references": [
+        "left one",
+        "left motorcycle",
+        "red bike"
+      ],
+      "target_box": [
+        14.26,
+        247.84,
+        278.53999999999996,
+        470.45000000000005
+      ]
+    },
+    {
+      "question_id": "75752",
+      "ref_id": 26639,
+      "ann_id": 1281330,
+      "image_id": 275707,
+      "split": "train",
+      "width": 640,
+      "height": 402,
+      "expression": "chekered shirt",
+      "references": [
+        "chekered shirt",
+        "man in blue plaid",
+        "guy with plaid shirt in middle with back straps"
+      ],
+      "target_box": [
+        205.51,
+        54.08,
+        301.05,
+        375.85999999999996
+      ]
+    },
+    {
+      "question_id": "122141",
+      "ref_id": 42964,
+      "ann_id": 2183149,
+      "image_id": 80590,
+      "split": "train",
+      "width": 500,
+      "height": 375,
+      "expression": "glass on left",
+      "references": [
+        "glass on left",
+        "left wine glass",
+        "glass on the left"
+      ],
+      "target_box": [
+        1.0,
+        74.35,
+        127.0,
+        374.35
+      ]
+    },
+    {
+      "question_id": "117339",
+      "ref_id": 41273,
+      "ann_id": 488870,
+      "image_id": 100034,
+      "split": "train",
+      "width": 640,
+      "height": 628,
+      "expression": "white shirt in back",
+      "references": [
+        "white shirt in back",
+        "kid in white shirt"
+      ],
+      "target_box": [
+        191.93,
+        86.09,
+        395.15,
+        416.31000000000006
+      ]
+    },
+    {
+      "question_id": "7894",
+      "ref_id": 2766,
+      "ann_id": 456926,
+      "image_id": 550760,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "man holding child",
+      "references": [
+        "man holding child",
+        "person on left",
+        "man holding child"
+      ],
+      "target_box": [
+        0.0,
+        67.37,
+        573.63,
+        480.0
+      ]
+    },
+    {
+      "question_id": "53573",
+      "ref_id": 18833,
+      "ann_id": 594850,
+      "image_id": 363363,
+      "split": "train",
+      "width": 480,
+      "height": 360,
+      "expression": "left girafee",
+      "references": [
+        "left girafee",
+        "left giraffe",
+        "left girafe"
+      ],
+      "target_box": [
+        111.64,
+        20.9,
+        254.01999999999998,
+        199.69
+      ]
+    },
+    {
+      "question_id": "85460",
+      "ref_id": 30052,
+      "ann_id": 466692,
+      "image_id": 235316,
+      "split": "train",
+      "width": 640,
+      "height": 448,
+      "expression": "The serviceman on the left",
+      "references": [
+        "The serviceman on the left",
+        "dude with glasses",
+        "Bald w/ Glasses on left"
+      ],
+      "target_box": [
+        51.34,
+        21.24,
+        332.22,
+        365.54
+      ]
+    },
+    {
+      "question_id": "72278",
+      "ref_id": 25425,
+      "ann_id": 1039401,
+      "image_id": 289282,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "soup cup way right",
+      "references": [
+        "soup cup way right",
+        "bottom right bowl"
+      ],
+      "target_box": [
+        471.37,
+        278.29,
+        633.1700000000001,
+        445.48
+      ]
+    },
+    {
+      "question_id": "46204",
+      "ref_id": 16237,
+      "ann_id": 1299471,
+      "image_id": 394992,
+      "split": "train",
+      "width": 640,
+      "height": 590,
+      "expression": "stripped shirt",
+      "references": [
+        "stripped shirt",
+        "striped shirt person",
+        "im so srry! lol, 2nd from right back row"
+      ],
+      "target_box": [
+        441.51,
+        103.42,
+        582.04,
+        343.39
+      ]
+    },
+    {
+      "question_id": "34081",
+      "ref_id": 11975,
+      "ann_id": 63338,
+      "image_id": 444651,
+      "split": "train",
+      "width": 640,
+      "height": 448,
+      "expression": "top right big sheep",
+      "references": [
+        "top right big sheep",
+        "upper right sheep",
+        "top right lamb"
+      ],
+      "target_box": [
+        345.88,
+        34.68,
+        494.25,
+        165.71
+      ]
+    },
+    {
+      "question_id": "81089",
+      "ref_id": 28512,
+      "ann_id": 1083064,
+      "image_id": 253049,
+      "split": "train",
+      "width": 612,
+      "height": 612,
+      "expression": "left bottom donut in the right panel",
+      "references": [
+        "left bottom donut in the right panel",
+        "Right pic bottom left donut",
+        "right hand picture, bottom left donut"
+      ],
+      "target_box": [
+        311.16,
+        389.65,
+        422.58000000000004,
+        599.68
+      ]
+    },
+    {
+      "question_id": "35069",
+      "ref_id": 12324,
+      "ann_id": 557411,
+      "image_id": 440820,
+      "split": "train",
+      "width": 417,
+      "height": 640,
+      "expression": "man",
+      "references": [
+        "man",
+        "right guy",
+        "man"
+      ],
+      "target_box": [
+        166.83,
+        76.22,
+        342.29,
+        585.35
+      ]
+    },
+    {
+      "question_id": "71865",
+      "ref_id": 25280,
+      "ann_id": 310658,
+      "image_id": 291493,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "top half of sandwich",
+      "references": [
+        "top half of sandwich",
+        "sandwich half in the back",
+        "sandwich one behind"
+      ],
+      "target_box": [
+        188.76,
+        2.03,
+        564.13,
+        172.46
+      ]
+    },
+    {
+      "question_id": "23836",
+      "ref_id": 8371,
+      "ann_id": 532123,
+      "image_id": 485800,
+      "split": "train",
+      "width": 326,
+      "height": 500,
+      "expression": "man standing on the left",
+      "references": [
+        "man standing on the left",
+        "L guy",
+        "guy standing"
+      ],
+      "target_box": [
+        51.56,
+        132.4,
+        128.13,
+        408.6
+      ]
+    },
+    {
+      "question_id": "111839",
+      "ref_id": 39332,
+      "ann_id": 1280645,
+      "image_id": 123892,
+      "split": "train",
+      "width": 640,
+      "height": 475,
+      "expression": "person in striped cap with no skies on",
+      "references": [
+        "person in striped cap with no skies on",
+        "person in center with black pants with a stripe down the side",
+        "middle person front"
+      ],
+      "target_box": [
+        275.84,
+        19.88,
+        386.59999999999997,
+        461.86
+      ]
+    },
+    {
+      "question_id": "89573",
+      "ref_id": 31496,
+      "ann_id": 73319,
+      "image_id": 217959,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "middle cow next to the 6",
+      "references": [
+        "middle cow next to the 6",
+        "dark cow",
+        "cow head"
+      ],
+      "target_box": [
+        109.42,
+        131.1,
+        418.06,
+        346.84000000000003
+      ]
+    },
+    {
+      "question_id": "82287",
+      "ref_id": 28934,
+      "ann_id": 1254111,
+      "image_id": 248052,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "man with hands up on right",
+      "references": [
+        "man with hands up on right",
+        "man rt hands in the air like he just dont care :)",
+        "man with hands up"
+      ],
+      "target_box": [
+        389.39,
+        142.38,
+        598.65,
+        417.44
+      ]
+    },
+    {
+      "question_id": "123037",
+      "ref_id": 43278,
+      "ann_id": 311269,
+      "image_id": 77174,
+      "split": "train",
+      "width": 427,
+      "height": 640,
+      "expression": "the half of a sandwich with a tomato is visible",
+      "references": [
+        "the half of a sandwich with a tomato is visible",
+        "sandwich right",
+        "right portion sandwhich"
+      ],
+      "target_box": [
+        99.46,
+        378.38,
+        358.91999999999996,
+        603.24
+      ]
+    },
+    {
+      "question_id": "59712",
+      "ref_id": 20990,
+      "ann_id": 1693174,
+      "image_id": 337452,
+      "split": "train",
+      "width": 500,
+      "height": 368,
+      "expression": "white",
+      "references": [
+        "white",
+        "skater with white helmet on",
+        "skater in white"
+      ],
+      "target_box": [
+        274.14,
+        125.4,
+        405.19,
+        317.3
+      ]
+    },
+    {
+      "question_id": "84031",
+      "ref_id": 29551,
+      "ann_id": 1273736,
+      "image_id": 241208,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "batter",
+      "references": [
+        "batter",
+        "batter",
+        "batter hitting the ball"
+      ],
+      "target_box": [
+        188.64,
+        153.99,
+        332.08,
+        421.42
+      ]
+    },
+    {
+      "question_id": "120273",
+      "ref_id": 42303,
+      "ann_id": 1256040,
+      "image_id": 88663,
+      "split": "train",
+      "width": 640,
+      "height": 466,
+      "expression": "WOMAN ON BED",
+      "references": [
+        "WOMAN ON BED",
+        "guy on bed",
+        "Person on bed, in hat"
+      ],
+      "target_box": [
+        375.34,
+        61.89,
+        539.43,
+        257.43
+      ]
+    },
+    {
+      "question_id": "44935",
+      "ref_id": 15792,
+      "ann_id": 1285680,
+      "image_id": 399880,
+      "split": "train",
+      "width": 640,
+      "height": 516,
+      "expression": "very center fur coat lady",
+      "references": [
+        "very center fur coat lady",
+        "middle woman"
+      ],
+      "target_box": [
+        330.11,
+        140.65,
+        420.46000000000004,
+        491.15
+      ]
+    },
+    {
+      "question_id": "37473",
+      "ref_id": 13171,
+      "ann_id": 215245,
+      "image_id": 430244,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "right guy",
+      "references": [
+        "right guy",
+        "stripes guy",
+        "right person"
+      ],
+      "target_box": [
+        484.31,
+        79.82,
+        619.15,
+        392.63
+      ]
+    },
+    {
+      "question_id": "122926",
+      "ref_id": 43239,
+      "ann_id": 475600,
+      "image_id": 77650,
+      "split": "train",
+      "width": 640,
+      "height": 464,
+      "expression": "front girl left",
+      "references": [
+        "front girl left",
+        "young lady in white shirt under umbrella",
+        "woman on left"
+      ],
+      "target_box": [
+        346.44,
+        140.4,
+        441.11,
+        446.26
+      ]
+    },
+    {
+      "question_id": "37019",
+      "ref_id": 13011,
+      "ann_id": 2167195,
+      "image_id": 432170,
+      "split": "train",
+      "width": 444,
+      "height": 640,
+      "expression": "person with blue and gold clothing",
+      "references": [
+        "person with blue and gold clothing",
+        "defender in blue",
+        "blue and yellow shirt"
+      ],
+      "target_box": [
+        96.13,
+        79.34,
+        236.04999999999998,
+        580.1
+      ]
+    },
+    {
+      "question_id": "88008",
+      "ref_id": 30945,
+      "ann_id": 1970840,
+      "image_id": 224056,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "laptop on the right",
+      "references": [
+        "laptop on the right",
+        "laptop right"
+      ],
+      "target_box": [
+        280.52,
+        66.08,
+        639.5799999999999,
+        397.71
+      ]
+    },
+    {
+      "question_id": "19891",
+      "ref_id": 6986,
+      "ann_id": 351101,
+      "image_id": 501842,
+      "split": "train",
+      "width": 640,
+      "height": 384,
+      "expression": "blurry white car down right with oval rear window",
+      "references": [
+        "blurry white car down right with oval rear window",
+        "car right",
+        "bottom right car, white"
+      ],
+      "target_box": [
+        305.47,
+        303.1,
+        628.21,
+        380.76
+      ]
+    },
+    {
+      "question_id": "31932",
+      "ref_id": 11213,
+      "ann_id": 72271,
+      "image_id": 453311,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "cow on right",
+      "references": [
+        "cow on right",
+        "bull right",
+        "right cow"
+      ],
+      "target_box": [
+        337.93,
+        136.16,
+        615.52,
+        289.25
+      ]
+    },
+    {
+      "question_id": "107591",
+      "ref_id": 37837,
+      "ann_id": 1936046,
+      "image_id": 140738,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "seat in front of people",
+      "references": [
+        "seat in front of people",
+        "white seat cover, far left",
+        "white cover in front of guy"
+      ],
+      "target_box": [
+        0.86,
+        144.1,
+        173.59,
+        480.0
+      ]
+    },
+    {
+      "question_id": "104474",
+      "ref_id": 36732,
+      "ann_id": 1088079,
+      "image_id": 154212,
+      "split": "train",
+      "width": 480,
+      "height": 640,
+      "expression": "white and light brown breasts?",
+      "references": [
+        "white and light brown breasts?",
+        "Second from bottom... not sure what they are but they look like booby cakes... lol",
+        "white mid"
+      ],
+      "target_box": [
+        148.13,
+        353.8,
+        333.65999999999997,
+        470.29
+      ]
+    },
+    {
+      "question_id": "19106",
+      "ref_id": 6714,
+      "ann_id": 1647059,
+      "image_id": 504878,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "fridge under black",
+      "references": [
+        "fridge under black",
+        "middle white below black one",
+        "ONE WITH ORANGE TAG"
+      ],
+      "target_box": [
+        273.71,
+        216.08,
+        381.28,
+        428.45000000000005
+      ]
+    },
+    {
+      "question_id": "89356",
+      "ref_id": 31419,
+      "ann_id": 1156384,
+      "image_id": 218984,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "vase in the middle back with the small green leaves",
+      "references": [
+        "vase in the middle back with the small green leaves",
+        "tallest vase",
+        "broken vase style"
+      ],
+      "target_box": [
+        182.1,
+        25.54,
+        347.65999999999997,
+        360.25
+      ]
+    },
+    {
+      "question_id": "83098",
+      "ref_id": 29220,
+      "ann_id": 172644,
+      "image_id": 244983,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "left train",
+      "references": [
+        "left train",
+        "left train",
+        "white train on left"
+      ],
+      "target_box": [
+        76.58,
+        177.98,
+        343.01,
+        281.53
+      ]
+    },
+    {
+      "question_id": "47191",
+      "ref_id": 16586,
+      "ann_id": 1080266,
+      "image_id": 391088,
+      "split": "train",
+      "width": 640,
+      "height": 640,
+      "expression": "UPPER LEFT DONUT",
+      "references": [
+        "UPPER LEFT DONUT",
+        "top left donut out of frame",
+        "top left donut"
+      ],
+      "target_box": [
+        1.44,
+        18.7,
+        201.35,
+        250.25
+      ]
+    },
+    {
+      "question_id": "75308",
+      "ref_id": 26484,
+      "ann_id": 517432,
+      "image_id": 277491,
+      "split": "train",
+      "width": 640,
+      "height": 558,
+      "expression": "man in darker #4 shirt",
+      "references": [
+        "man in darker #4 shirt",
+        "white short #4"
+      ],
+      "target_box": [
+        10.03,
+        159.56,
+        283.39,
+        545.77
+      ]
+    },
+    {
+      "question_id": "129460",
+      "ref_id": 45521,
+      "ann_id": 197841,
+      "image_id": 52086,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "girl eating",
+      "references": [
+        "girl eating",
+        "girl",
+        "girl"
+      ],
+      "target_box": [
+        174.74,
+        22.65,
+        640.0,
+        476.76
+      ]
+    },
+    {
+      "question_id": "15339",
+      "ref_id": 5387,
+      "ann_id": 1074838,
+      "image_id": 519626,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "any slice of pizza",
+      "references": [
+        "any slice of pizza",
+        "the bottom pizza slice",
+        "any slice except center"
+      ],
+      "target_box": [
+        0.0,
+        10.79,
+        639.64,
+        474.61
+      ]
+    },
+    {
+      "question_id": "107572",
+      "ref_id": 37830,
+      "ann_id": 1186973,
+      "image_id": 140850,
+      "split": "train",
+      "width": 334,
+      "height": 500,
+      "expression": "right case",
+      "references": [
+        "right case",
+        "right suitcase",
+        "right case"
+      ],
+      "target_box": [
+        168.54,
+        206.74,
+        331.46,
+        452.81
+      ]
+    },
+    {
+      "question_id": "32546",
+      "ref_id": 11431,
+      "ann_id": 75172,
+      "image_id": 450735,
+      "split": "train",
+      "width": 640,
+      "height": 476,
+      "expression": "the cow second from left",
+      "references": [
+        "the cow second from left",
+        "2nd cow from left",
+        "black animal secnd from left"
+      ],
+      "target_box": [
+        168.08,
+        218.18,
+        311.55,
+        449.48
+      ]
+    },
+    {
+      "question_id": "115755",
+      "ref_id": 40721,
+      "ann_id": 186102,
+      "image_id": 106652,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "tie",
+      "references": [
+        "tie",
+        "guy white",
+        "tie guy"
+      ],
+      "target_box": [
+        157.13,
+        31.86,
+        307.79999999999995,
+        474.19
+      ]
+    },
+    {
+      "question_id": "69438",
+      "ref_id": 24434,
+      "ann_id": 397022,
+      "image_id": 301373,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "red vehicle in middle",
+      "references": [
+        "red vehicle in middle",
+        "firetruck",
+        "central firetruck"
+      ],
+      "target_box": [
+        195.89,
+        0.75,
+        420.35,
+        355.09
+      ]
+    },
+    {
+      "question_id": "26035",
+      "ref_id": 9143,
+      "ann_id": 57671,
+      "image_id": 477392,
+      "split": "train",
+      "width": 640,
+      "height": 424,
+      "expression": "white horse",
+      "references": [
+        "white horse",
+        "white horse",
+        "white horse on left"
+      ],
+      "target_box": [
+        83.71,
+        157.95,
+        232.01999999999998,
+        419.09
+      ]
+    },
+    {
+      "question_id": "137987",
+      "ref_id": 48517,
+      "ann_id": 419107,
+      "image_id": 17451,
+      "split": "train",
+      "width": 640,
+      "height": 594,
+      "expression": "parking meter on right",
+      "references": [
+        "parking meter on right",
+        "not closest half meter but number 32",
+        "right meter"
+      ],
+      "target_box": [
+        237.74,
+        137.24,
+        341.9,
+        356.14
+      ]
+    },
+    {
+      "question_id": "100454",
+      "ref_id": 35317,
+      "ann_id": 329748,
+      "image_id": 171736,
+      "split": "train",
+      "width": 500,
+      "height": 333,
+      "expression": "phone reflection",
+      "references": [
+        "phone reflection",
+        "phone reflection mirror!",
+        "right phone in mirror"
+      ],
+      "target_box": [
+        270.89,
+        44.9,
+        439.26,
+        257.42
+      ]
+    },
+    {
+      "question_id": "100555",
+      "ref_id": 35352,
+      "ann_id": 194676,
+      "image_id": 171262,
+      "split": "train",
+      "width": 640,
+      "height": 469,
+      "expression": "man on right",
+      "references": [
+        "man on right",
+        "man on right",
+        "green jacket"
+      ],
+      "target_box": [
+        335.15,
+        87.55,
+        576.5,
+        423.75
+      ]
+    },
+    {
+      "question_id": "93988",
+      "ref_id": 33054,
+      "ann_id": 462600,
+      "image_id": 199841,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "man on right",
+      "references": [
+        "man on right",
+        "first right guy",
+        "man right"
+      ],
+      "target_box": [
+        350.56,
+        21.57,
+        634.25,
+        409.89
+      ]
+    },
+    {
+      "question_id": "50983",
+      "ref_id": 17922,
+      "ann_id": 505214,
+      "image_id": 375133,
+      "split": "train",
+      "width": 500,
+      "height": 333,
+      "expression": "right guy in black",
+      "references": [
+        "right guy in black",
+        "person on right front",
+        "Person on far right"
+      ],
+      "target_box": [
+        321.08,
+        82.76,
+        449.21,
+        328.6
+      ]
+    },
+    {
+      "question_id": "121882",
+      "ref_id": 42871,
+      "ann_id": 1266005,
+      "image_id": 81401,
+      "split": "train",
+      "width": 640,
+      "height": 482,
+      "expression": "left man standing in black",
+      "references": [
+        "left man standing in black",
+        "man with skull shirt",
+        "man in black shirt"
+      ],
+      "target_box": [
+        9.75,
+        129.98,
+        116.98,
+        445.16999999999996
+      ]
+    },
+    {
+      "question_id": "128845",
+      "ref_id": 45306,
+      "ann_id": 1611326,
+      "image_id": 54318,
+      "split": "train",
+      "width": 640,
+      "height": 429,
+      "expression": "bed at the back of the photo",
+      "references": [
+        "bed at the back of the photo",
+        "back bed",
+        "top bed"
+      ],
+      "target_box": [
+        187.02,
+        132.07,
+        514.8,
+        375.98
+      ]
+    },
+    {
+      "question_id": "81964",
+      "ref_id": 28820,
+      "ann_id": 1935547,
+      "image_id": 249429,
+      "split": "train",
+      "width": 428,
+      "height": 640,
+      "expression": "Lounge chair on back left side",
+      "references": [
+        "Lounge chair on back left side",
+        "2nd bench from left",
+        "The chair directly to the left of the chair that has an umbrella"
+      ],
+      "target_box": [
+        14.46,
+        418.77,
+        213.57000000000002,
+        545.5
+      ]
+    },
+    {
+      "question_id": "31995",
+      "ref_id": 11235,
+      "ann_id": 366078,
+      "image_id": 453002,
+      "split": "train",
+      "width": 640,
+      "height": 442,
+      "expression": "bus on leftside",
+      "references": [
+        "bus on leftside",
+        "left bus"
+      ],
+      "target_box": [
+        13.94,
+        48.28,
+        259.82,
+        412.63
+      ]
+    },
+    {
+      "question_id": "37002",
+      "ref_id": 13005,
+      "ann_id": 1070298,
+      "image_id": 432372,
+      "split": "train",
+      "width": 640,
+      "height": 426,
+      "expression": "hot dog on grill left side third from bottom",
+      "references": [
+        "hot dog on grill left side third from bottom",
+        "3rd dog front left",
+        "burn in middle left row"
+      ],
+      "target_box": [
+        104.74,
+        225.21,
+        395.01,
+        341.05
+      ]
+    },
+    {
+      "question_id": "94035",
+      "ref_id": 33071,
+      "ann_id": 155003,
+      "image_id": 199640,
+      "split": "train",
+      "width": 640,
+      "height": 331,
+      "expression": "bike on bottom",
+      "references": [
+        "bike on bottom",
+        "red b"
+      ],
+      "target_box": [
+        217.2,
+        233.56,
+        499.09999999999997,
+        331.0
+      ]
+    },
+    {
+      "question_id": "51628",
+      "ref_id": 18151,
+      "ann_id": 317233,
+      "image_id": 372588,
+      "split": "train",
+      "width": 640,
+      "height": 478,
+      "expression": "bed farthest from the TV",
+      "references": [
+        "bed farthest from the TV",
+        "bed bottom left",
+        "bed in the lower left"
+      ],
+      "target_box": [
+        1.08,
+        306.98,
+        414.34,
+        478.0
+      ]
+    },
+    {
+      "question_id": "2182",
+      "ref_id": 769,
+      "ann_id": 1313153,
+      "image_id": 573125,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "guy in middle of pic white shirt",
+      "references": [
+        "guy in middle of pic white shirt",
+        "dude in white shirt in middle",
+        "guy white shirt with shorts and strap"
+      ],
+      "target_box": [
+        216.81,
+        104.9,
+        338.7,
+        463.01
+      ]
+    },
+    {
+      "question_id": "128648",
+      "ref_id": 45238,
+      "ann_id": 1831022,
+      "image_id": 55232,
+      "split": "train",
+      "width": 640,
+      "height": 432,
+      "expression": "umbrella top left",
+      "references": [
+        "umbrella top left",
+        "left umbrella",
+        "right"
+      ],
+      "target_box": [
+        0.0,
+        1.4,
+        283.89,
+        132.69
+      ]
+    },
+    {
+      "question_id": "74823",
+      "ref_id": 26312,
+      "ann_id": 1551752,
+      "image_id": 279169,
+      "split": "train",
+      "width": 640,
+      "height": 526,
+      "expression": "The peaches in the white basket bottom row right",
+      "references": [
+        "The peaches in the white basket bottom row right",
+        "fruit above the bananas"
+      ],
+      "target_box": [
+        456.43,
+        192.68,
+        619.53,
+        281.18
+      ]
+    },
+    {
+      "question_id": "104819",
+      "ref_id": 36854,
+      "ann_id": 1741478,
+      "image_id": 152556,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "Partial shirt far right green and white",
+      "references": [
+        "Partial shirt far right green and white",
+        "girl in green stripped shirt",
+        "striped shirt right"
+      ],
+      "target_box": [
+        450.3,
+        90.89,
+        640.0,
+        446.14
+      ]
+    },
+    {
+      "question_id": "137293",
+      "ref_id": 48270,
+      "ann_id": 1497389,
+      "image_id": 20513,
+      "split": "train",
+      "width": 480,
+      "height": 640,
+      "expression": "wine glass left",
+      "references": [
+        "wine glass left",
+        "wine glass on left",
+        "glass stem on the left"
+      ],
+      "target_box": [
+        0.0,
+        3.01,
+        121.98,
+        278.59
+      ]
+    },
+    {
+      "question_id": "22463",
+      "ref_id": 7888,
+      "ann_id": 274091,
+      "image_id": 491739,
+      "split": "train",
+      "width": 640,
+      "height": 428,
+      "expression": "second horse from right",
+      "references": [
+        "second horse from right",
+        "middle front horse - blonde hair"
+      ],
+      "target_box": [
+        350.09,
+        111.57,
+        541.49,
+        383.76
+      ]
+    },
+    {
+      "question_id": "32855",
+      "ref_id": 11540,
+      "ann_id": 1369321,
+      "image_id": 449469,
+      "split": "train",
+      "width": 640,
+      "height": 425,
+      "expression": "white van behind pink car",
+      "references": [
+        "white van behind pink car",
+        "white van",
+        "bus behind pink"
+      ],
+      "target_box": [
+        217.75,
+        142.54,
+        554.89,
+        255.24
+      ]
+    },
+    {
+      "question_id": "82169",
+      "ref_id": 28893,
+      "ann_id": 1293252,
+      "image_id": 248579,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "rightmost lady",
+      "references": [
+        "rightmost lady",
+        "woman in long black dress, red over it, at right",
+        "right lady"
+      ],
+      "target_box": [
+        523.91,
+        68.13,
+        627.55,
+        377.1
+      ]
+    },
+    {
+      "question_id": "5164",
+      "ref_id": 1808,
+      "ann_id": 450903,
+      "image_id": 562014,
+      "split": "train",
+      "width": 499,
+      "height": 640,
+      "expression": "woman",
+      "references": [
+        "woman",
+        "woman black jacket",
+        "her"
+      ],
+      "target_box": [
+        43.15,
+        43.24,
+        309.21,
+        602.7
+      ]
+    },
+    {
+      "question_id": "135991",
+      "ref_id": 47818,
+      "ann_id": 1254502,
+      "image_id": 25628,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "woman left",
+      "references": [
+        "woman left",
+        "person left"
+      ],
+      "target_box": [
+        0.0,
+        192.0,
+        197.39,
+        473.53
+      ]
+    },
+    {
+      "question_id": "23825",
+      "ref_id": 8367,
+      "ann_id": 217610,
+      "image_id": 485868,
+      "split": "train",
+      "width": 640,
+      "height": 425,
+      "expression": "black suit guy on right",
+      "references": [
+        "black suit guy on right",
+        "guy wearing black jacket on right",
+        "frotn guy"
+      ],
+      "target_box": [
+        431.69,
+        3.82,
+        580.67,
+        313.26
+      ]
+    },
+    {
+      "question_id": "102799",
+      "ref_id": 36137,
+      "ann_id": 233952,
+      "image_id": 161719,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "woman right",
+      "references": [
+        "woman right",
+        "woman white shirt",
+        "far right girl"
+      ],
+      "target_box": [
+        424.99,
+        57.17,
+        561.98,
+        339.78000000000003
+      ]
+    },
+    {
+      "question_id": "36906",
+      "ref_id": 12971,
+      "ann_id": 2150796,
+      "image_id": 432683,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "blue shirt",
+      "references": [
+        "blue shirt",
+        "left man in blue",
+        "man up front"
+      ],
+      "target_box": [
+        52.36,
+        84.69,
+        226.41000000000003,
+        480.0
+      ]
+    },
+    {
+      "question_id": "74616",
+      "ref_id": 26241,
+      "ann_id": 1797379,
+      "image_id": 279882,
+      "split": "train",
+      "width": 640,
+      "height": 484,
+      "expression": "car closest to man",
+      "references": [
+        "car closest to man",
+        "black car on the left of the guy with no shirt",
+        "left car"
+      ],
+      "target_box": [
+        2.39,
+        27.49,
+        121.9,
+        299.96000000000004
+      ]
+    },
+    {
+      "question_id": "3520",
+      "ref_id": 1233,
+      "ann_id": 1822289,
+      "image_id": 568272,
+      "split": "train",
+      "width": 640,
+      "height": 506,
+      "expression": "ASS",
+      "references": [
+        "ASS",
+        "big zebra",
+        "bigger zebra"
+      ],
+      "target_box": [
+        288.6,
+        16.07,
+        552.55,
+        497.86
+      ]
+    },
+    {
+      "question_id": "67208",
+      "ref_id": 23641,
+      "ann_id": 1652783,
+      "image_id": 310897,
+      "split": "train",
+      "width": 500,
+      "height": 366,
+      "expression": "cookbook",
+      "references": [
+        "cookbook",
+        "book"
+      ],
+      "target_box": [
+        75.52,
+        109.2,
+        366.83,
+        175.82999999999998
+      ]
+    },
+    {
+      "question_id": "121270",
+      "ref_id": 42655,
+      "ann_id": 499821,
+      "image_id": 84313,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "woman on left",
+      "references": [
+        "woman on left",
+        "L woman",
+        "girl on left"
+      ],
+      "target_box": [
+        0.0,
+        0.0,
+        267.47,
+        427.0
+      ]
+    },
+    {
+      "question_id": "4269",
+      "ref_id": 1495,
+      "ann_id": 1067564,
+      "image_id": 565220,
+      "split": "train",
+      "width": 500,
+      "height": 430,
+      "expression": "bottom hotdog",
+      "references": [
+        "bottom hotdog",
+        "bottom hotdog",
+        "bottom hotdog"
+      ],
+      "target_box": [
+        1.01,
+        184.21,
+        499.81,
+        402.75
+      ]
+    },
+    {
+      "question_id": "140974",
+      "ref_id": 49569,
+      "ann_id": 1901672,
+      "image_id": 5587,
+      "split": "train",
+      "width": 612,
+      "height": 612,
+      "expression": "top plate",
+      "references": [
+        "top plate",
+        "top tier plate"
+      ],
+      "target_box": [
+        184.21,
+        165.45,
+        612.0,
+        297.09
+      ]
+    },
+    {
+      "question_id": "88817",
+      "ref_id": 31231,
+      "ann_id": 1642795,
+      "image_id": 220842,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "its black and has 9:45 on the display",
+      "references": [
+        "its black and has 9:45 on the display",
+        "stove in bottom time says 945",
+        "BLack oven toward the bottom right that says 9:45"
+      ],
+      "target_box": [
+        295.14,
+        408.11,
+        592.4300000000001,
+        475.14
+      ]
+    },
+    {
+      "question_id": "141638",
+      "ref_id": 49804,
+      "ann_id": 494282,
+      "image_id": 2567,
+      "split": "train",
+      "width": 427,
+      "height": 640,
+      "expression": "woman wearing glasses",
+      "references": [
+        "woman wearing glasses",
+        "girl throwing frisbee",
+        "grey woman in middle"
+      ],
+      "target_box": [
+        75.29,
+        112.94,
+        221.54000000000002,
+        464.8
+      ]
+    },
+    {
+      "question_id": "9132",
+      "ref_id": 3199,
+      "ann_id": 347652,
+      "image_id": 545832,
+      "split": "train",
+      "width": 640,
+      "height": 485,
+      "expression": "white car on the left",
+      "references": [
+        "white car on the left",
+        "left hand"
+      ],
+      "target_box": [
+        2.77,
+        288.99,
+        266.38,
+        479.04
+      ]
+    },
+    {
+      "question_id": "7614",
+      "ref_id": 2665,
+      "ann_id": 591940,
+      "image_id": 551793,
+      "split": "train",
+      "width": 640,
+      "height": 424,
+      "expression": "middle back Z",
+      "references": [
+        "middle back Z",
+        "zebra on the right",
+        "zebra on right"
+      ],
+      "target_box": [
+        185.45,
+        95.61,
+        574.86,
+        424.0
+      ]
+    },
+    {
+      "question_id": "74773",
+      "ref_id": 26295,
+      "ann_id": 438069,
+      "image_id": 279415,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "guy center",
+      "references": [
+        "guy center",
+        "guy in the middle",
+        "guy in middle"
+      ],
+      "target_box": [
+        212.49,
+        37.75,
+        403.42,
+        470.29
+      ]
+    },
+    {
+      "question_id": "32274",
+      "ref_id": 11333,
+      "ann_id": 1073703,
+      "image_id": 451800,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "pizza slice on right",
+      "references": [
+        "pizza slice on right",
+        "PEPPERONI",
+        "right slice"
+      ],
+      "target_box": [
+        355.96,
+        121.89,
+        605.12,
+        449.8
+      ]
+    },
+    {
+      "question_id": "70190",
+      "ref_id": 24697,
+      "ann_id": 478727,
+      "image_id": 298306,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "person on left",
+      "references": [
+        "person on left",
+        "left guy",
+        "left man"
+      ],
+      "target_box": [
+        57.57,
+        129.54,
+        272.51,
+        419.31999999999994
+      ]
+    },
+    {
+      "question_id": "23557",
+      "ref_id": 8272,
+      "ann_id": 373441,
+      "image_id": 486936,
+      "split": "train",
+      "width": 640,
+      "height": 478,
+      "expression": "middle chair",
+      "references": [
+        "middle chair",
+        "chair at top left edge of table"
+      ],
+      "target_box": [
+        55.98,
+        69.44,
+        194.85999999999999,
+        235.23
+      ]
+    },
+    {
+      "question_id": "76811",
+      "ref_id": 27008,
+      "ann_id": 2205086,
+      "image_id": 270248,
+      "split": "train",
+      "width": 640,
+      "height": 424,
+      "expression": "blurry person",
+      "references": [
+        "blurry person",
+        "man at the far end of the field"
+      ],
+      "target_box": [
+        549.26,
+        2.85,
+        639.84,
+        206.56
+      ]
+    },
+    {
+      "question_id": "89954",
+      "ref_id": 31631,
+      "ann_id": 184904,
+      "image_id": 216391,
+      "split": "train",
+      "width": 428,
+      "height": 640,
+      "expression": "white shirt",
+      "references": [
+        "white shirt",
+        "balding man",
+        "bald guy"
+      ],
+      "target_box": [
+        98.27,
+        214.9,
+        231.94,
+        588.32
+      ]
+    },
+    {
+      "question_id": "102681",
+      "ref_id": 36097,
+      "ann_id": 2189411,
+      "image_id": 162200,
+      "split": "train",
+      "width": 480,
+      "height": 640,
+      "expression": "top left donut (not long one)",
+      "references": [
+        "top left donut (not long one)",
+        "donut above cinnaroll",
+        "Donut wrapped in paper"
+      ],
+      "target_box": [
+        26.32,
+        273.53,
+        192.48999999999998,
+        408.43999999999994
+      ]
+    },
+    {
+      "question_id": "140089",
+      "ref_id": 49259,
+      "ann_id": 1053266,
+      "image_id": 9185,
+      "split": "train",
+      "width": 640,
+      "height": 428,
+      "expression": "Left corner bottom",
+      "references": [
+        "Left corner bottom",
+        "left orange in very front",
+        "orange bottom left"
+      ],
+      "target_box": [
+        10.07,
+        266.87,
+        249.75,
+        422.96000000000004
+      ]
+    },
+    {
+      "question_id": "121557",
+      "ref_id": 42755,
+      "ann_id": 1734886,
+      "image_id": 83353,
+      "split": "train",
+      "width": 429,
+      "height": 640,
+      "expression": "person on right",
+      "references": [
+        "person on right",
+        "woman upper right",
+        "lady right"
+      ],
+      "target_box": [
+        291.72,
+        8.53,
+        421.25,
+        293.98999999999995
+      ]
+    },
+    {
+      "question_id": "51439",
+      "ref_id": 18083,
+      "ann_id": 482380,
+      "image_id": 373251,
+      "split": "train",
+      "width": 640,
+      "height": 457,
+      "expression": "middle guy (blue name tag)",
+      "references": [
+        "middle guy (blue name tag)",
+        "soldier in middle",
+        "guy in the middle"
+      ],
+      "target_box": [
+        268.04,
+        43.85,
+        397.44000000000005,
+        322.15000000000003
+      ]
+    },
+    {
+      "question_id": "79471",
+      "ref_id": 27940,
+      "ann_id": 424185,
+      "image_id": 260010,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "batter",
+      "references": [
+        "batter",
+        "batter",
+        "batter"
+      ],
+      "target_box": [
+        237.3,
+        113.26,
+        388.31,
+        468.13
+      ]
+    },
+    {
+      "question_id": "92890",
+      "ref_id": 32666,
+      "ann_id": 664235,
+      "image_id": 204529,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "wine glass far left",
+      "references": [
+        "wine glass far left",
+        "first wine glass",
+        "left glass"
+      ],
+      "target_box": [
+        119.19,
+        193.39,
+        245.91,
+        480.0
+      ]
+    },
+    {
+      "question_id": "134996",
+      "ref_id": 47472,
+      "ann_id": 1366138,
+      "image_id": 29456,
+      "split": "train",
+      "width": 640,
+      "height": 425,
+      "expression": "2nd bus",
+      "references": [
+        "2nd bus",
+        "bus top of screen",
+        "Rear bus next to old dude in brown"
+      ],
+      "target_box": [
+        106.64,
+        96.1,
+        291.93,
+        260.56
+      ]
+    },
+    {
+      "question_id": "16932",
+      "ref_id": 5948,
+      "ann_id": 1085888,
+      "image_id": 514064,
+      "split": "train",
+      "width": 500,
+      "height": 375,
+      "expression": "right cake",
+      "references": [
+        "right cake",
+        "right cake",
+        "chocolate powdered cake"
+      ],
+      "target_box": [
+        271.35,
+        1.69,
+        498.88,
+        248.6
+      ]
+    },
+    {
+      "question_id": "51539",
+      "ref_id": 18120,
+      "ann_id": 1966704,
+      "image_id": 372871,
+      "split": "train",
+      "width": 640,
+      "height": 428,
+      "expression": "top of table above the plate",
+      "references": [
+        "top of table above the plate",
+        "table area above bowl"
+      ],
+      "target_box": [
+        1.11,
+        0.0,
+        640.0,
+        96.72
+      ]
+    },
+    {
+      "question_id": "138732",
+      "ref_id": 48783,
+      "ann_id": 601243,
+      "image_id": 14686,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "second giraffe from left",
+      "references": [
+        "second giraffe from left",
+        "first one left of pole"
+      ],
+      "target_box": [
+        155.7,
+        115.0,
+        267.38,
+        454.33
+      ]
+    },
+    {
+      "question_id": "141028",
+      "ref_id": 49588,
+      "ann_id": 506833,
+      "image_id": 5424,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "older male",
+      "references": [
+        "older male",
+        "man",
+        "FATHER"
+      ],
+      "target_box": [
+        7.52,
+        0.1,
+        616.38,
+        474.83000000000004
+      ]
+    },
+    {
+      "question_id": "77395",
+      "ref_id": 27216,
+      "ann_id": 2121307,
+      "image_id": 267871,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "empty chair beside gib guy closest to us",
+      "references": [
+        "empty chair beside gib guy closest to us",
+        "2nd chair next to man",
+        "2nd chair from left back"
+      ],
+      "target_box": [
+        105.03,
+        345.41,
+        262.40999999999997,
+        479.45000000000005
+      ]
+    },
+    {
+      "question_id": "14859",
+      "ref_id": 5216,
+      "ann_id": 1080621,
+      "image_id": 521800,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "left donut with white icing",
+      "references": [
+        "left donut with white icing",
+        "left frost donut",
+        "left white donut"
+      ],
+      "target_box": [
+        123.62,
+        121.87,
+        250.59,
+        247.17000000000002
+      ]
+    },
+    {
+      "question_id": "115447",
+      "ref_id": 40611,
+      "ann_id": 1332293,
+      "image_id": 108375,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "woman at bottom of frame brown shirt",
+      "references": [
+        "woman at bottom of frame brown shirt",
+        "right chick"
+      ],
+      "target_box": [
+        488.61,
+        215.64,
+        640.0,
+        410.79999999999995
+      ]
+    },
+    {
+      "question_id": "61796",
+      "ref_id": 21728,
+      "ann_id": 582825,
+      "image_id": 330284,
+      "split": "train",
+      "width": 640,
+      "height": 428,
+      "expression": "full elephant on left",
+      "references": [
+        "full elephant on left",
+        "middle elephant small",
+        "middle elephant"
+      ],
+      "target_box": [
+        149.15,
+        244.12,
+        316.03,
+        362.04
+      ]
+    },
+    {
+      "question_id": "23369",
+      "ref_id": 8206,
+      "ann_id": 2204632,
+      "image_id": 487602,
+      "split": "train",
+      "width": 480,
+      "height": 640,
+      "expression": "orange shirt boy",
+      "references": [
+        "orange shirt boy",
+        "shorter kid",
+        "orange shirt"
+      ],
+      "target_box": [
+        112.27,
+        178.95,
+        242.89999999999998,
+        626.24
+      ]
+    },
+    {
+      "question_id": "83551",
+      "ref_id": 29381,
+      "ann_id": 514646,
+      "image_id": 243153,
+      "split": "train",
+      "width": 640,
+      "height": 437,
+      "expression": "far left girl",
+      "references": [
+        "far left girl",
+        "left pic lady left"
+      ],
+      "target_box": [
+        11.73,
+        101.77,
+        133.94,
+        389.19
+      ]
+    },
+    {
+      "question_id": "25877",
+      "ref_id": 9085,
+      "ann_id": 1089919,
+      "image_id": 477797,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "left lower btes",
+      "references": [
+        "left lower btes",
+        "powder sugar covered brownie closest to you on the left",
+        "Brown desert lower left"
+      ],
+      "target_box": [
+        1.08,
+        307.03,
+        230.27,
+        417.29999999999995
+      ]
+    },
+    {
+      "question_id": "66173",
+      "ref_id": 23278,
+      "ann_id": 74027,
+      "image_id": 314051,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "The cow standing on the left",
+      "references": [
+        "The cow standing on the left",
+        "left cow",
+        "Cow on left"
+      ],
+      "target_box": [
+        80.72,
+        98.23,
+        227.08,
+        313.85
+      ]
+    },
+    {
+      "question_id": "42553",
+      "ref_id": 14952,
+      "ann_id": 2150707,
+      "image_id": 409825,
+      "split": "train",
+      "width": 640,
+      "height": 378,
+      "expression": "Girl in blue on left",
+      "references": [
+        "Girl in blue on left",
+        "woman",
+        "blonde woman"
+      ],
+      "target_box": [
+        54.0,
+        89.05,
+        248.4,
+        314.87
+      ]
+    },
+    {
+      "question_id": "25677",
+      "ref_id": 9014,
+      "ann_id": 523775,
+      "image_id": 478712,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "man onright",
+      "references": [
+        "man onright",
+        "right man"
+      ],
+      "target_box": [
+        429.53,
+        3.33,
+        640.0,
+        406.01
+      ]
+    },
+    {
+      "question_id": "122810",
+      "ref_id": 43199,
+      "ann_id": 1195916,
+      "image_id": 78307,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "far left bike",
+      "references": [
+        "far left bike",
+        "Far left bike",
+        "bike furthest left"
+      ],
+      "target_box": [
+        0.96,
+        93.74,
+        186.15,
+        419.99
+      ]
+    },
+    {
+      "question_id": "85926",
+      "ref_id": 30213,
+      "ann_id": 531659,
+      "image_id": 233007,
+      "split": "train",
+      "width": 320,
+      "height": 213,
+      "expression": "left woman",
+      "references": [
+        "left woman",
+        "LEFT GIRL",
+        "lady left"
+      ],
+      "target_box": [
+        87.0,
+        39.03,
+        197.0,
+        213.0
+      ]
+    },
+    {
+      "question_id": "81331",
+      "ref_id": 28596,
+      "ann_id": 1581253,
+      "image_id": 252136,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "chair to the right of the girl in yellow",
+      "references": [
+        "chair to the right of the girl in yellow",
+        "chair to the right of the woman in yellow shirt"
+      ],
+      "target_box": [
+        146.33,
+        377.76,
+        315.0,
+        477.26
+      ]
+    },
+    {
+      "question_id": "94436",
+      "ref_id": 33211,
+      "ann_id": 1299569,
+      "image_id": 197662,
+      "split": "train",
+      "width": 640,
+      "height": 425,
+      "expression": "black person right",
+      "references": [
+        "black person right",
+        "blk guy right",
+        "front right dark shirt"
+      ],
+      "target_box": [
+        310.78,
+        91.11,
+        458.05999999999995,
+        295.76
+      ]
+    },
+    {
+      "question_id": "56294",
+      "ref_id": 19787,
+      "ann_id": 1675705,
+      "image_id": 351397,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "front bear",
+      "references": [
+        "front bear",
+        "front middle bear",
+        "white bear on the bottom"
+      ],
+      "target_box": [
+        136.56,
+        256.3,
+        490.47,
+        422.67
+      ]
+    },
+    {
+      "question_id": "89767",
+      "ref_id": 31566,
+      "ann_id": 255029,
+      "image_id": 217268,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "the girl in the striped shirt near the man and woman",
+      "references": [
+        "the girl in the striped shirt near the man and woman",
+        "left woman",
+        "girl glasses"
+      ],
+      "target_box": [
+        147.86,
+        136.95,
+        267.86,
+        324.45
+      ]
+    },
+    {
+      "question_id": "64035",
+      "ref_id": 22515,
+      "ann_id": 530302,
+      "image_id": 322517,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "top right of camera",
+      "references": [
+        "top right of camera",
+        "top right guy"
+      ],
+      "target_box": [
+        470.41,
+        0.48,
+        640.0,
+        158.70999999999998
+      ]
+    },
+    {
+      "question_id": "8281",
+      "ref_id": 2900,
+      "ann_id": 215660,
+      "image_id": 549184,
+      "split": "train",
+      "width": 500,
+      "height": 400,
+      "expression": "man left in white",
+      "references": [
+        "man left in white",
+        "guy on the left",
+        "guy in white"
+      ],
+      "target_box": [
+        83.41,
+        18.48,
+        237.67,
+        196.95
+      ]
+    },
+    {
+      "question_id": "89496",
+      "ref_id": 31469,
+      "ann_id": 1559768,
+      "image_id": 218447,
+      "split": "train",
+      "width": 640,
+      "height": 429,
+      "expression": "FARTHEST BROCOLI LEFT",
+      "references": [
+        "FARTHEST BROCOLI LEFT",
+        "Broccoli furthest to the left",
+        "bro farthest left"
+      ],
+      "target_box": [
+        198.59,
+        220.61,
+        366.34000000000003,
+        381.6
+      ]
+    },
+    {
+      "question_id": "82520",
+      "ref_id": 29014,
+      "ann_id": 2159734,
+      "image_id": 247126,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "the catcher",
+      "references": [
+        "the catcher",
+        "White uniform in front",
+        "catcher"
+      ],
+      "target_box": [
+        472.13,
+        107.31,
+        573.61,
+        411.45
+      ]
+    },
+    {
+      "question_id": "39120",
+      "ref_id": 13748,
+      "ann_id": 452738,
+      "image_id": 424278,
+      "split": "train",
+      "width": 640,
+      "height": 484,
+      "expression": "hands on hips",
+      "references": [
+        "hands on hips",
+        "adult in white shirt",
+        "Man on left"
+      ],
+      "target_box": [
+        96.58,
+        19.76,
+        226.08999999999997,
+        305.11
+      ]
+    },
+    {
+      "question_id": "72173",
+      "ref_id": 25389,
+      "ann_id": 395442,
+      "image_id": 289782,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "truck big",
+      "references": [
+        "truck big",
+        "green truck",
+        "Blue truck"
+      ],
+      "target_box": [
+        50.86,
+        48.78,
+        556.54,
+        400.92999999999995
+      ]
+    },
+    {
+      "question_id": "87030",
+      "ref_id": 30603,
+      "ann_id": 2205910,
+      "image_id": 227825,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "man on the left cut off from picture",
+      "references": [
+        "man on the left cut off from picture",
+        "L person",
+        "LEFT"
+      ],
+      "target_box": [
+        0.0,
+        203.85,
+        66.37,
+        480.0
+      ]
+    },
+    {
+      "question_id": "32780",
+      "ref_id": 11514,
+      "ann_id": 153850,
+      "image_id": 449780,
+      "split": "train",
+      "width": 516,
+      "height": 640,
+      "expression": "blue bike",
+      "references": [
+        "blue bike",
+        "the blue bike, to the left and behind",
+        "blue bike"
+      ],
+      "target_box": [
+        2.88,
+        194.52,
+        201.35,
+        473.53
+      ]
+    },
+    {
+      "question_id": "118738",
+      "ref_id": 41764,
+      "ann_id": 1882073,
+      "image_id": 94459,
+      "split": "train",
+      "width": 480,
+      "height": 640,
+      "expression": "black can",
+      "references": [
+        "black can",
+        "tin can",
+        "empty can"
+      ],
+      "target_box": [
+        33.12,
+        0.0,
+        176.12,
+        219.94
+      ]
+    },
+    {
+      "question_id": "4691",
+      "ref_id": 1642,
+      "ann_id": 590555,
+      "image_id": 563679,
+      "split": "train",
+      "width": 500,
+      "height": 333,
+      "expression": "right zebra",
+      "references": [
+        "right zebra",
+        "Zebra, right side",
+        "right zbra"
+      ],
+      "target_box": [
+        284.63,
+        80.22,
+        479.78999999999996,
+        305.8
+      ]
+    },
+    {
+      "question_id": "11730",
+      "ref_id": 4115,
+      "ann_id": 114661,
+      "image_id": 535049,
+      "split": "train",
+      "width": 640,
+      "height": 428,
+      "expression": "green chair",
+      "references": [
+        "green chair",
+        "green couch",
+        "green chair"
+      ],
+      "target_box": [
+        405.91,
+        261.4,
+        531.09,
+        371.84999999999997
+      ]
+    },
+    {
+      "question_id": "108910",
+      "ref_id": 38300,
+      "ann_id": 97752,
+      "image_id": 135822,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "couch lower left",
+      "references": [
+        "couch lower left",
+        "couch left",
+        "red couch left"
+      ],
+      "target_box": [
+        0.0,
+        284.67,
+        351.7,
+        422.41
+      ]
+    },
+    {
+      "question_id": "105534",
+      "ref_id": 37106,
+      "ann_id": 215813,
+      "image_id": 149616,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "left guy",
+      "references": [
+        "left guy",
+        "Man in checkered shirt.",
+        "left man"
+      ],
+      "target_box": [
+        4.3,
+        105.47,
+        256.14,
+        392.83000000000004
+      ]
+    },
+    {
+      "question_id": "25862",
+      "ref_id": 9080,
+      "ann_id": 65733,
+      "image_id": 477828,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "left goat",
+      "references": [
+        "left goat",
+        "ram on way left",
+        "Far left sheep"
+      ],
+      "target_box": [
+        6.29,
+        195.72,
+        223.76,
+        347.59000000000003
+      ]
+    },
+    {
+      "question_id": "1622",
+      "ref_id": 571,
+      "ann_id": 1737905,
+      "image_id": 575826,
+      "split": "train",
+      "width": 640,
+      "height": 503,
+      "expression": "man in black coat",
+      "references": [
+        "man in black coat",
+        "referee",
+        "guy in khakis"
+      ],
+      "target_box": [
+        545.04,
+        133.19,
+        640.0,
+        382.95
+      ]
+    },
+    {
+      "question_id": "105301",
+      "ref_id": 37024,
+      "ann_id": 585543,
+      "image_id": 150704,
+      "split": "train",
+      "width": 640,
+      "height": 542,
+      "expression": "left e",
+      "references": [
+        "left e",
+        "left",
+        "elephant on the left"
+      ],
+      "target_box": [
+        81.99,
+        255.7,
+        308.28,
+        380.88
+      ]
+    },
+    {
+      "question_id": "94442",
+      "ref_id": 33213,
+      "ann_id": 527499,
+      "image_id": 197651,
+      "split": "train",
+      "width": 640,
+      "height": 513,
+      "expression": "Man in the red shirt",
+      "references": [
+        "Man in the red shirt",
+        "man in red",
+        "red shirt, sitting"
+      ],
+      "target_box": [
+        433.28,
+        326.45,
+        568.1899999999999,
+        507.79999999999995
+      ]
+    },
+    {
+      "question_id": "513",
+      "ref_id": 178,
+      "ann_id": 2159030,
+      "image_id": 580008,
+      "split": "train",
+      "width": 372,
+      "height": 500,
+      "expression": "bottom box left dude",
+      "references": [
+        "bottom box left dude",
+        "guy wearing glasses",
+        "bottom pic..left guy"
+      ],
+      "target_box": [
+        31.2,
+        291.61,
+        198.23999999999998,
+        499.06
+      ]
+    },
+    {
+      "question_id": "125746",
+      "ref_id": 44226,
+      "ann_id": 1051978,
+      "image_id": 65842,
+      "split": "train",
+      "width": 640,
+      "height": 438,
+      "expression": "upper left orange",
+      "references": [
+        "upper left orange",
+        "orange in back left"
+      ],
+      "target_box": [
+        137.4,
+        219.6,
+        274.74,
+        330.6
+      ]
+    },
+    {
+      "question_id": "114065",
+      "ref_id": 40120,
+      "ann_id": 310349,
+      "image_id": 114807,
+      "split": "train",
+      "width": 500,
+      "height": 375,
+      "expression": "left most food",
+      "references": [
+        "left most food",
+        "left gooey food",
+        "left toast"
+      ],
+      "target_box": [
+        17.7,
+        78.37,
+        219.94,
+        311.8
+      ]
+    },
+    {
+      "question_id": "70841",
+      "ref_id": 24921,
+      "ann_id": 212743,
+      "image_id": 296360,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "black shirt",
+      "references": [
+        "black shirt",
+        "man in black",
+        "guy in black"
+      ],
+      "target_box": [
+        366.65,
+        111.79,
+        472.05999999999995,
+        339.11
+      ]
+    },
+    {
+      "question_id": "17714",
+      "ref_id": 6222,
+      "ann_id": 1541985,
+      "image_id": 510680,
+      "split": "train",
+      "width": 640,
+      "height": 424,
+      "expression": "Left center banna",
+      "references": [
+        "Left center banna",
+        "middle banana on the left side of the apple",
+        "left banana middle"
+      ],
+      "target_box": [
+        0.0,
+        150.81,
+        186.84,
+        317.86
+      ]
+    },
+    {
+      "question_id": "99276",
+      "ref_id": 34904,
+      "ann_id": 115579,
+      "image_id": 177289,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "The brown leather couch",
+      "references": [
+        "The brown leather couch",
+        "couch in back",
+        "LOVESEAT"
+      ],
+      "target_box": [
+        281.81,
+        156.9,
+        466.58000000000004,
+        252.9
+      ]
+    },
+    {
+      "question_id": "33059",
+      "ref_id": 11614,
+      "ann_id": 478637,
+      "image_id": 448531,
+      "split": "train",
+      "width": 612,
+      "height": 612,
+      "expression": "dude behind kid",
+      "references": [
+        "dude behind kid",
+        "back man"
+      ],
+      "target_box": [
+        38.42,
+        0.0,
+        186.62,
+        171.52
+      ]
+    },
+    {
+      "question_id": "40964",
+      "ref_id": 14392,
+      "ann_id": 425953,
+      "image_id": 416651,
+      "split": "train",
+      "width": 640,
+      "height": 523,
+      "expression": "crossed arms",
+      "references": [
+        "crossed arms",
+        "man with arms crossed",
+        "man crossing arms"
+      ],
+      "target_box": [
+        271.64,
+        63.72,
+        402.6,
+        517.1
+      ]
+    },
+    {
+      "question_id": "18285",
+      "ref_id": 6423,
+      "ann_id": 134299,
+      "image_id": 508140,
+      "split": "train",
+      "width": 640,
+      "height": 426,
+      "expression": "silver car in front",
+      "references": [
+        "silver car in front",
+        "silver car behincop right",
+        "sliver car on the right"
+      ],
+      "target_box": [
+        442.42,
+        110.99,
+        637.63,
+        283.39
+      ]
+    },
+    {
+      "question_id": "61431",
+      "ref_id": 21597,
+      "ann_id": 1715534,
+      "image_id": 331463,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "blue shirt man",
+      "references": [
+        "blue shirt man",
+        "man blue shirt",
+        "man in blue"
+      ],
+      "target_box": [
+        116.42,
+        98.9,
+        250.2,
+        350.17
+      ]
+    },
+    {
+      "question_id": "47968",
+      "ref_id": 16860,
+      "ann_id": 1077504,
+      "image_id": 387717,
+      "split": "train",
+      "width": 500,
+      "height": 430,
+      "expression": "pizza big side",
+      "references": [
+        "pizza big side",
+        "the bottom half of pizza",
+        "left edge of pizza"
+      ],
+      "target_box": [
+        2.3,
+        10.92,
+        477.14,
+        423.68
+      ]
+    },
+    {
+      "question_id": "126745",
+      "ref_id": 44577,
+      "ann_id": 1241995,
+      "image_id": 61877,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "front mid woman",
+      "references": [
+        "front mid woman",
+        "woman in middle with white shirt",
+        "singer in white"
+      ],
+      "target_box": [
+        198.47,
+        19.42,
+        369.98,
+        443.33000000000004
+      ]
+    },
+    {
+      "question_id": "111456",
+      "ref_id": 39200,
+      "ann_id": 491398,
+      "image_id": 125350,
+      "split": "train",
+      "width": 500,
+      "height": 333,
+      "expression": "farthest left guy",
+      "references": [
+        "farthest left guy",
+        "guy with glasses",
+        "Person on the left"
+      ],
+      "target_box": [
+        86.25,
+        88.88,
+        169.5,
+        327.38
+      ]
+    },
+    {
+      "question_id": "21721",
+      "ref_id": 7625,
+      "ann_id": 1584476,
+      "image_id": 494552,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "left chair in front",
+      "references": [
+        "left chair in front",
+        "white chair on left (foreground)",
+        "front left chair"
+      ],
+      "target_box": [
+        0.0,
+        227.17,
+        240.01,
+        341.96999999999997
+      ]
+    },
+    {
+      "question_id": "5614",
+      "ref_id": 1967,
+      "ann_id": 1068891,
+      "image_id": 560532,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "broken hot dog",
+      "references": [
+        "broken hot dog",
+        "left dog",
+        "hot dog closest to us"
+      ],
+      "target_box": [
+        59.86,
+        215.53,
+        310.59,
+        462.87
+      ]
+    },
+    {
+      "question_id": "15677",
+      "ref_id": 5505,
+      "ann_id": 1967898,
+      "image_id": 518552,
+      "split": "train",
+      "width": 640,
+      "height": 640,
+      "expression": "left one",
+      "references": [
+        "left one",
+        "left one",
+        "left urinal"
+      ],
+      "target_box": [
+        104.73,
+        42.72,
+        274.29,
+        566.36
+      ]
+    },
+    {
+      "question_id": "58026",
+      "ref_id": 20396,
+      "ann_id": 53500,
+      "image_id": 344319,
+      "split": "train",
+      "width": 640,
+      "height": 427,
+      "expression": "left horse",
+      "references": [
+        "left horse",
+        "1st lft horse",
+        "LEFT HORSE"
+      ],
+      "target_box": [
+        45.0,
+        92.98,
+        191.92,
+        392.33000000000004
+      ]
+    },
+    {
+      "question_id": "45074",
+      "ref_id": 15841,
+      "ann_id": 1812521,
+      "image_id": 399354,
+      "split": "train",
+      "width": 500,
+      "height": 375,
+      "expression": "Chair on right",
+      "references": [
+        "Chair on right",
+        "right chair next to lady",
+        "seat on front right"
+      ],
+      "target_box": [
+        259.09,
+        146.1,
+        497.72999999999996,
+        370.13
+      ]
+    },
+    {
+      "question_id": "3154",
+      "ref_id": 1109,
+      "ann_id": 582574,
+      "image_id": 569613,
+      "split": "train",
+      "width": 640,
+      "height": 425,
+      "expression": "elephant right",
+      "references": [
+        "elephant right",
+        "right eleph",
+        "right elephant"
+      ],
+      "target_box": [
+        325.9,
+        111.49,
+        622.25,
+        347.81
+      ]
+    },
+    {
+      "question_id": "20110",
+      "ref_id": 7063,
+      "ann_id": 224322,
+      "image_id": 500982,
+      "split": "train",
+      "width": 500,
+      "height": 375,
+      "expression": "lady on left",
+      "references": [
+        "lady on left",
+        "girl left",
+        "lady with scarf"
+      ],
+      "target_box": [
+        79.39,
+        172.72,
+        228.04000000000002,
+        370.35
+      ]
+    },
+    {
+      "question_id": "79673",
+      "ref_id": 28011,
+      "ann_id": 1112383,
+      "image_id": 259104,
+      "split": "train",
+      "width": 640,
+      "height": 480,
+      "expression": "remote to the left side of big one",
+      "references": [
+        "remote to the left side of big one",
+        "black remote on the right",
+        "4th remote from left"
+      ],
+      "target_box": [
+        246.8,
+        132.8,
+        337.74,
+        446.64
+      ]
+    },
+    {
+      "question_id": "108998",
+      "ref_id": 38331,
+      "ann_id": 518651,
+      "image_id": 135348,
+      "split": "train",
+      "width": 426,
+      "height": 640,
+      "expression": "guy on the left black shirt",
+      "references": [
+        "guy on the left black shirt",
+        "man on left of image cut off",
+        "guy with orange back far left no head"
+      ],
+      "target_box": [
+        1.44,
+        166.49,
+        110.99,
+        441.8
+      ]
+    },
+    {
+      "question_id": "39940",
+      "ref_id": 14036,
+      "ann_id": 1274897,
+      "image_id": 420892,
+      "split": "train",
+      "width": 424,
+      "height": 640,
+      "expression": "blur in the bottom left",
+      "references": [
+        "blur in the bottom left",
+        "The person in the background under elbow",
+        "bottom left corner"
+      ],
+      "target_box": [
+        0.0,
+        410.92,
+        140.18,
+        640.0
+      ]
+    }
+  ]
+}

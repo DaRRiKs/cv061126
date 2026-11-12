@@ -1,0 +1,79 @@
+{
+  "ANLS_1234_1235": 0.75,
+  "EM_1234_1235": 0.0,
+  "resize_cases": [
+    {
+      "height": 1000,
+      "width": 750,
+      "cap": 249312,
+      "resized_height": 560,
+      "resized_width": 420,
+      "tokens": 300
+    },
+    {
+      "height": 3000,
+      "width": 2000,
+      "cap": 249312,
+      "resized_height": 588,
+      "resized_width": 392,
+      "tokens": 294
+    },
+    {
+      "height": 337,
+      "width": 2001,
+      "cap": 249312,
+      "resized_height": 196,
+      "resized_width": 1204,
+      "tokens": 301
+    },
+    {
+      "height": 1000,
+      "width": 750,
+      "cap": 999600,
+      "resized_height": 1008,
+      "resized_width": 756,
+      "tokens": 972
+    },
+    {
+      "height": 3000,
+      "width": 2000,
+      "cap": 999600,
+      "resized_height": 1204,
+      "resized_width": 812,
+      "tokens": 1247
+    },
+    {
+      "height": 337,
+      "width": 2001,
+      "cap": 999600,
+      "resized_height": 336,
+      "resized_width": 1988,
+      "tokens": 852
+    },
+    {
+      "height": 1000,
+      "width": 750,
+      "cap": 3999968,
+      "resized_height": 1008,
+      "resized_width": 756,
+      "tokens": 972
+    },
+    {
+      "height": 3000,
+      "width": 2000,
+      "cap": 3999968,
+      "resized_height": 2436,
+      "resized_width": 1624,
+      "tokens": 5046
+    },
+    {
+      "height": 337,
+      "width": 2001,
+      "cap": 3999968,
+      "resized_height": 336,
+      "resized_width": 1988,
+      "tokens": 852
+    }
+  ],
+  "passed": true
+}
